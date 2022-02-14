@@ -1,0 +1,42 @@
+[
+    {
+        "products_id": 1,
+        "products_name": "Order Medicines",
+        "type_id":1
+    },
+    {
+        "products_id": 2,
+        "products_name": "Healthcare Devices",
+        "type_id":2     
+    },
+    {
+        "products_id": 3,
+        "products_name": "Nutrition Drinks",
+        "type_id":3        
+    },
+    {
+        "products_id": 4,
+        "products_name": "Ayurvedic Care",
+        "type_id":4        
+    },
+    {
+        "products_id": 5,
+        "products_name": "Covid Essentials",
+        "type_id":5    
+    },
+    {
+        "products_id": 6,
+        "products_name": "Sexual Wellness",
+        "type_id":6       
+    },
+    {
+        "products_id": 7,
+        "products_name": "Home Care",
+        "type_id":7        
+    },
+    {
+        "products_id": 8,
+        "products_name": "Personal Care",
+        "type_id":8       
+    }
+]

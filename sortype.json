@@ -1,0 +1,232 @@
+[
+    {
+        "sort_id": 1,
+        "name": "A",
+        "Content": "Medicine index starting from A"
+    },
+    {
+        "sort_id": 2,
+        "name": "B",
+        "Content": "Medicine index starting from B"
+    },
+    {
+        "sort_id": 3,
+        "sort": "C",
+        "Content": "Medicine index starting from C"
+    },
+    {
+        "sort_id": 4,
+        "sort": "D",
+        "Content": "Medicine index starting from D"
+    },
+    {
+        "sort_id": 5,
+        "sort": "E",
+        "Content": "Medicine index starting from E"
+    },
+    {
+        "sort_id": 6,
+        "sort": "F",
+        "Content": "Medicine index starting from F"
+    },
+    {
+        "sort_id": 7,
+        "sort": "G",
+        "Content": "Medicine index starting from G"
+    },
+    {
+        "sort_id": 8,
+        "sort": "H",
+        "Content": "Medicine index starting from H"
+    },
+    {
+        "sort_id": 9,
+        "sort": "I",
+        "Content": "Medicine index starting from I"
+    },
+    {
+        "sort_id": 10,
+        "sort": "J",
+        "Content": "Medicine index starting from J"
+    },
+    {
+        "sort_id": 11,
+        "sort": "K",
+        "Content": "Medicine index starting from K"
+    },
+    {
+        "sort_id": 12,
+        "sort": "L",
+        "Content": "Medicine index starting from L"
+    },
+    {
+        "sort_id": 13,
+        "sort": "M",
+        "Content": "Medicine index starting from M"
+    },
+    {
+        "sort_id": 14,
+        "sort": "N",
+        "Content": "Medicine index starting from N"
+    },
+    {
+        "sort_id": 15,
+        "sort": "O",
+        "Content": "Medicine index starting from O"
+    },
+    {
+        "sort_id": 16,
+        "sort": "P",
+        "Content": "Medicine index starting from P"
+    },
+    {
+        "sort_id": 17,
+        "sort": "Q",
+        "Content": "Medicine index starting from Q"
+    },
+    {
+        "sort_id": 18,
+        "sort": "R",
+        "Content": "Medicine index starting from R"
+    },
+    {
+        "sort_id": 19,
+        "sort": "S",
+        "Content": "Medicine index starting from S"
+    },
+    {
+        "sort_id": 20,
+        "sort": "BP Monitor",
+        "Content": ""
+    },
+    {
+        "sort_id": 21,
+        "sort": "Covid Test Kits",
+        "Content": ""
+    },
+    {
+        "sort_id": 22,
+        "sort": "Glucometer",
+        "Content": "M"
+    },
+    {
+        "sort_id": 23,
+        "sort": "Oximeter",
+        "Content": ""
+    },
+    {
+        "sort_id": 24,
+        "sort": "Thermometers",
+        "Content": ""
+    },
+    {
+        "sort_id": 25,
+        "sort":"Baby Food",
+        "Content":""
+    },
+    {
+        "sort_id": 26,
+        "sort":"Diabetic Care",
+        "Content":""
+    },
+    {
+        "sort_id": 27,
+        "sort":"Health Food",
+        "Content":""
+    },
+    {
+        "sort_id": 28,
+        "sort":"Nutrition Drinks",
+        "Content":""
+    },
+    {
+        "sort_id": 29,
+        "sort":"Ayurvedic Medicines",
+        "Content":""
+    },
+    {
+        "sort_id": 30,
+        "sort":"Homeopathic Medicines",
+        "Content":""
+    },
+    {
+        "sort_id": 31,
+        "sort":"Sexual Wellness",
+        "Content":""
+    },
+    {
+        "sort_id": 32,
+        "sort":"Covid Test Kits",
+        "Content":""
+    },
+    {
+        "sort_id": 33,
+        "sort":"Disinfectants",
+        "Content":""
+    },
+    {
+        "sort_id": 34,
+        "sort":"Masks",
+        "Content":""
+    },
+    {
+        "sort_id": 35,
+        "sort":"Hand Sanitizer",
+        "Content":""
+    },
+    {
+        "sort_id": 36,
+        "sort":"Condoms",
+        "Content":""
+    },
+    {
+        "sort_id": 37,
+        "sort":"Oral Contraceptives",
+        "Content":""
+    },
+    {
+        "sort_id": 38,
+        "sort":"Pregnancy Support",
+        "Content":""
+    },
+    {
+        "sort_id": 39,
+        "sort":"Kitchen Essential",
+        "Content":""
+    },
+    {
+        "sort_id": 40,
+        "sort":"Mosquito And Pest Control",
+        "Content":""
+    },
+    {
+        "sort_id": 41,
+        "sort":"Disinfectants",
+        "Content":""
+    },
+    {
+        "sort_id": 42,
+        "sort":"Appliances",
+        "Content":""
+    },
+    {
+        "sort_id": 43,
+        "sort":"Womens Care",
+        "Content":""
+    },
+    {
+        "sort_id": 44,
+        "sort":"Mens Care",
+        "Content":""
+    },
+    {
+        "sort_id": 45,
+        "sort":"Hair Care",
+        "Content":""
+    },
+    {
+        "sort_id": 46,
+        "sort":"Oral Care",
+        "Content":""
+    }
+]

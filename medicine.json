@@ -5,7 +5,7 @@
         "name": "Allegra",
         "img": "https://i.ibb.co/kXpM18L/allegra120mgtablet.png",
         "price": "198Rs",
-        "prescription": "Prescription Required",
+        "prescription": "Prescription Required"
     },
     {
         "care_id": 2,
@@ -181,7 +181,7 @@
         "name": "Doxinate Tablet",
         "img": "https://i.ibb.co/gyV1wFs/doxinatetablet.png",
         "price": "208Rs",
-        "prescription": "Prescription Required",
+        "prescription": "Prescription Required"
     },
     {
         "care_id": 25,

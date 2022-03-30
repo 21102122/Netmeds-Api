@@ -115,7 +115,7 @@ app.get('/menu/:id',(req,res) => {
 //product selected using user selection
 app.post('/menuItem',(req,res) => {
     console.log(req.body)
-    db.collection('desc').find({products_id:{$in:req.body}}).toArray((err,result) =>{
+    db.collection('desc').find({care_id:{$in:req.body}}).toArray((err,result) =>{
         if(err) throw err;
         res.send(result)
     })

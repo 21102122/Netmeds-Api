@@ -189,7 +189,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 23,
+        "care_id": 22,
         "products_id": 1,
         "name": "Dolo 625 Tablet",
         "img": "https://i.ibb.co/wMKwtv7/dolo625tablet.jpg",
@@ -198,7 +198,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 24,
+        "care_id": 23,
         "products_id": 1,
         "name": "Doxinate Tablet",
         "img": "https://i.ibb.co/gyV1wFs/doxinatetablet.png",
@@ -207,7 +207,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 25,
+        "care_id": 24,
         "products_id": 1,
         "name": "Dynapar Tablet",
         "img": "https://i.ibb.co/qW0LM1T/dynapartablet.jpg",
@@ -216,7 +216,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 26,
+        "care_id": 25,
         "products_id": 1,
         "name": "Ecosprin 75 Tablets",
         "img": "https://i.ibb.co/G5pfZgJ/ecosprin75tablet.webp",
@@ -225,7 +225,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 27,
+        "care_id": 26,
         "products_id": 1,
         "name": "Ecosprin 20 Gold Capsule",
         "img": "https://i.ibb.co/wdc58W3/ecospringold20capsule.jpg",
@@ -234,7 +234,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 28,
+        "care_id": 27,
         "products_id": 1,
         "name": "Enzar Forte Tablet",
         "img": "https://i.ibb.co/5rvfWL1/enzarfortetablet.jpg",
@@ -243,7 +243,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 29,
+        "care_id": 28,
         "products_id": 1,
         "name": "Enzoflam Tablet",
         "img": "https://i.ibb.co/K7DF1BQ/enzoflamtablet.jpg",
@@ -252,7 +252,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 30,
+        "care_id": 29,
         "products_id": 1,
         "name": "Etizola 0.25 Tablet",
         "img": "https://i.ibb.co/4Jgyyfd/etizola0-25tablet.jpg",
@@ -262,7 +262,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 31,
+        "care_id": 30,
         "products_id": 1,
         "name": "Evion LC Tablet",
         "img": "https://i.ibb.co/HYCHpkF/evionlctablet.png",
@@ -271,7 +271,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 32,
+        "care_id": 31,
         "products_id": 1,
         "name": "Febrex Plus Tablet",
         "img": "https://i.ibb.co/5kx9yZs/febrexplustablet.png",
@@ -280,7 +280,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 33,
+        "care_id": 32,
         "products_id": 1,
         "name": "Flagyl 400 Tablet",
         "img": "https://i.ibb.co/9nPGdpL/flagyl400tablet.jpg",
@@ -289,7 +289,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 34,
+        "care_id": 33,
         "products_id": 1,
         "name": "Flexon MR Tablet",
         "img": "https://i.ibb.co/1vZ70Rh/flexonmrtablet.png",
@@ -298,7 +298,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 35,
+        "care_id": 34,
         "products_id": 1,
         "name": "Flexon Tablet",
         "img": "https://i.ibb.co/QdSWzHW/flexontablet.jpg",
@@ -307,7 +307,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 36,
+        "care_id": 35,
         "products_id": 1,
         "name": "Folvite 5mg Tablet",
         "img": "https://i.ibb.co/0tZZTNx/folvite5mgtablet.png",
@@ -316,7 +316,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 37,
+        "care_id": 36,
         "products_id": 1,
         "name": "Foracort Inhaler 200",
         "img": "https://i.ibb.co/Zc0X9my/foracortinhaler200.png",
@@ -325,7 +325,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 38,
+        "care_id": 37,
         "products_id": 1,
         "name": "Gabapin NT 100 Tablet",
         "img": "https://i.ibb.co/cbrQ1FQ/gabapin-NT100tablet.png",
@@ -334,7 +334,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 39,
+        "care_id": 38,
         "products_id": 1,
         "name": "Gabapin NT Tablet",
         "img": "https://i.ibb.co/XWdkYRn/gabapin-NTtablet.png",
@@ -343,7 +343,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 40,
+        "care_id": 39,
         "products_id": 1,
         "name": "Glycomet 500 SR Tablet",
         "img": "https://i.ibb.co/L8XbSMw/glycomet500srtablet.jpg",
@@ -352,7 +352,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 41,
+        "care_id": 40,
         "products_id": 1,
         "name": "Grilinctus BM Syrup",
         "img": "https://i.ibb.co/fHCRRV1/grilinctus-BMsyrup.jpg",
@@ -361,7 +361,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 42,
+        "care_id": 41,
         "products_id": 1,
         "name": "Grilinctus Syrup",
         "img": "https://i.ibb.co/N6hQHnQ/grilinctussyrup.jpg",
@@ -370,7 +370,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 43,
+        "care_id": 42,
         "products_id": 1,
         "name": "Gudcef 200 Tablet ",
         "img": "https://i.ibb.co/vYPYvVQ/gudcef200tablet.jpg",
@@ -379,7 +379,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 44,
+        "care_id": 43,
         "products_id": 1,
         "name": "HCQS 200 Tablet ",
         "img": "https://i.ibb.co/qjQ1QS7/hcqs200tablet.png",
@@ -388,7 +388,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 45,
+        "care_id": 44,
         "products_id": 1,
         "name": "Headset Tablet ",
         "img": "https://i.ibb.co/t8hrdTd/headsettablet.png",
@@ -397,7 +397,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 46,
+        "care_id": 45,
         "products_id": 1,
         "name": "Hepamerz Tablet ",
         "img": "https://i.ibb.co/41dgFqg/hepamerztablet.png",
@@ -406,7 +406,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 47,
+        "care_id": 46,
         "products_id": 1,
         "name": "Hetrazan 100 Tablet ",
         "img": "https://i.ibb.co/Bqy4mM8/hetrazan100tablet.png",
@@ -415,7 +415,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 48,
+        "care_id": 47,
         "products_id": 1,
         "name": "Hifenac P Tablet ",
         "img": "https://i.ibb.co/sPg05Yz/hifenac-ptablet.jpg",
@@ -424,7 +424,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 49,
+        "care_id": 48,
         "products_id": 1,
         "name": "HP Kit ",
         "img": "https://i.ibb.co/fxX4K4t/HPkit.png",
@@ -433,7 +433,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 50,
+        "care_id": 49,
         "products_id": 1,
         "name": "Ibset Tablet ",
         "img": "https://i.ibb.co/G75BSDF/ibsettablet.jpg",
@@ -442,7 +442,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 51,
+        "care_id": 50,
         "products_id": 1,
         "name": "Imodium Capsule ",
         "img": "https://i.ibb.co/JKHrtBL/imodiumcapsule.png",
@@ -451,7 +451,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 52,
+        "care_id": 51,
         "products_id": 1,
         "name": "Indocap SR Tablet ",
         "img": "https://i.ibb.co/KmmxbGp/indocap-SRtablet.png",
@@ -460,7 +460,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 53,
+        "care_id": 52,
         "products_id": 1,
         "name": "Intagesic MR Tablet",
         "img": "https://i.ibb.co/8XmPYVz/intagesic-MRtablet.png",
@@ -469,7 +469,7 @@
         "prescription": "Prescription Required"
     },
     {
-        "care_id": 54,
+        "care_id": 53,
         "products_id": 1,
         "name": "Isolazine Tablet ",
         "img": "https://i.ibb.co/N7LJfH1/isolazinetablet.png",
@@ -482,7 +482,7 @@
         "Salt_Composition": "Isosorbide Dinitrate (20mg) + Hydralazine (37.5mg)"
     },
     {
-        "care_id": 55,
+        "care_id": 54,
         "products_id": 1,
         "name": "Isotroin 20 Capsule ",
         "img": "https://i.ibb.co/cCFdJvZ/isotroin20capsule.jpg",
@@ -495,7 +495,7 @@
         "Salt_Composition": "Isotretinoin (20mg)"
     },
     {
-        "care_id": 56,
+        "care_id": 55,
         "products_id": 1,
         "name": "Jalra 50mg Tablet",
         "img": "https://i.ibb.co/k62bhRn/jalra50mgtablet.png",
@@ -508,7 +508,7 @@
         "Salt_Composition": "Vildagliptin (50mg)"
     },
     {
-        "care_id": 57,
+        "care_id": 56,
         "products_id": 1,
         "name": "Jenvac Vaccine ",
         "img": "https://i.ibb.co/vzTjgKN/jenvacvaccine.png",
@@ -521,7 +521,7 @@
         "Salt_Composition": "Inactivated Japanese Encephalitis virus protein (5mcg)"
     },
     {
-        "care_id": 58,
+        "care_id": 57,
         "products_id": 1,
         "name": "Jointace DN Tablet ",
         "img": "https://i.ibb.co/9gzCkNJ/jointace-DNtablet.png",
@@ -534,7 +534,7 @@
         "Salt_Composition": "Glucosamine (750mg) + Diacerein (50mg) + Methyl Sulfonyl Methane (250mg)"
     },
     {
-        "care_id": 59,
+        "care_id": 58,
         "products_id": 1,
         "name": "Jupiros 10 Tablet ",
         "img": "https://i.ibb.co/6rc35rQ/jupiros-ftablet.png",
@@ -547,7 +547,7 @@
         "Salt_Composition": "Rosuvastatin (10mg)"
     },
     {
-        "care_id": 60,
+        "care_id": 59,
         "products_id": 1,
         "name": "Jupiros F Tablet ",
         "img": "https://i.ibb.co/j473Nhg/jupiros10tablet.png",
@@ -560,7 +560,7 @@
         "Salt_Composition": "Fenofibrate (160mg) + Rosuvastatin (10mg)"
     },
     {
-        "care_id": 61,
+        "care_id": 60,
         "products_id": 1,
         "name": "Just Tear Eye Drop ",
         "img": "https://i.ibb.co/zP4GKwx/justtearseyedrop.png",
@@ -573,7 +573,7 @@
         "Salt_Composition": "Carboxymethylcellulose (0.5% w/v)"
     },
     {
-        "care_id": 62,
+        "care_id": 61,
         "products_id": 1,
         "name": "K Bind Powder ",
         "img": "https://i.ibb.co/yYNbc8d/k-bindpowder.png",
@@ -586,7 +586,7 @@
         "Salt_Composition": "Calcium Polystyrene Sulphonate (15gm)"
     },
     {
-        "care_id": 63,
+        "care_id": 62,
         "products_id": 1,
         "name": "Ketoadd Tablet ",
         "img": "https://i.ibb.co/9pqsdYX/ketoaddtablet.png",
@@ -599,7 +599,7 @@
         "Salt_Composition": "Alpha Ketoanalogue (NA)"
     },
     {
-        "care_id": 64,
+        "care_id": 63,
         "products_id": 1,
         "name": "Ketomac Shampoo ",
         "img": "https://i.ibb.co/jkhDD9H/ketomacshampoo.png",
@@ -612,7 +612,7 @@
         "Salt_Composition": "Ketoconazole (2% w/v)"
     },
     {
-        "care_id": 65,
+        "care_id": 64,
         "products_id": 1,
         "name": "Ketorol DT Tablet ",
         "img": "https://i.ibb.co/XFQqg2h/ketorol-DTtablet.png",
@@ -625,7 +625,7 @@
         "Salt_Composition": "Ketorolac (10mg)"
     },
     {
-        "care_id": 66,
+        "care_id": 65,
         "products_id": 1,
         "name": "Keto Soap ",
         "img": "https://i.ibb.co/TRxymP3/ketosoap.jpg",
@@ -638,7 +638,7 @@
         "Salt_Composition": "Ketoconazole (2% w/w)"
     },
     {
-        "care_id": 67,
+        "care_id": 66,
         "products_id": 1,
         "name": "Keto Sterile Tablet",
         "img": "https://i.ibb.co/T8KhcX9/ketosteriltablet.jpg",
@@ -651,7 +651,7 @@
         "Salt_Composition": "Alpha Ketoanalogue (NA)"
     },
     {
-        "care_id": 68,
+        "care_id": 67,
         "products_id": 1,
         "name": "Lasix Injection ",
         "img": "https://i.ibb.co/qs0hhRh/lasixinjection.jpg",
@@ -664,7 +664,7 @@
         "Salt_Composition": "Furosemide (10mg/ml)"
     },
     {
-        "care_id": 69,
+        "care_id": 68,
         "products_id": 1,
         "name": "Lasix Tablet ",
         "img": "https://i.ibb.co/8cGyB3R/lasixtablet.jpg",
@@ -677,7 +677,7 @@
         "Salt_Composition": "Furosemide (40mg)"
     },
     {
-        "care_id": 70,
+        "care_id": 69,
         "products_id": 1,
         "name": "Letroz Tablet ",
         "img": "https://i.ibb.co/bgPLdm9/letroztablet.jpg",
@@ -690,7 +690,7 @@
         "Salt_Composition": "Letrozole (2.5mg)"
     },
     {
-        "care_id": 71,
+        "care_id": 70,
         "products_id": 1,
         "name": "Levocet Tablet ",
         "img": "https://i.ibb.co/fSm0Dk5/levocettablet.jpg",
@@ -703,7 +703,7 @@
         "Salt_Composition": "Levocetirizine (5mg)"
     },
     {
-        "care_id": 72,
+        "care_id": 71,
         "products_id": 1,
         "name": "Lipagyln Tablet ",
         "img": "https://i.ibb.co/Ybcxwzw/lipaglyntablet.png",
@@ -716,7 +716,7 @@
         "Salt_Composition": "Saroglitazar (4mg)"
     },
     {
-        "care_id": 73,
+        "care_id": 72,
         "products_id": 1,
         "name": "Lopamide Tablet ",
         "img": "https://i.ibb.co/0jbCD7T/lopamidetablet.png",
@@ -729,7 +729,7 @@
         "Salt_Composition": "Loperamide (2mg)"
     },
     {
-        "care_id": 74,
+        "care_id": 73,
         "products_id": 1,
         "name": "Manforce 50mg Tablet ",
         "img": "https://i.ibb.co/HdfwKfk/manforce50mgtablet.png",
@@ -742,7 +742,7 @@
         "Salt_Composition": "Sildenafil (100mg)"
     },
     {
-        "care_id": 75,
+        "care_id": 74,
         "products_id": 1,
         "name": "Maxtra Syrup ",
         "img": "https://i.ibb.co/jGDNMJj/maxtrasyrup.png",
@@ -755,7 +755,7 @@
         "Salt_Composition": "Chlorpheniramine Maleate (2mg/5ml) + Phenylephrine (5mg/5ml)"
     },
     {
-        "care_id": 76,
+        "care_id": 75,
         "products_id": 1,
         "name": "Megalis 20 Tablet ",
         "img": "https://i.ibb.co/cFbgDk4/megalis20tablet.jpg",
@@ -768,7 +768,7 @@
         "Salt_Composition": "Tadalafil (10mg)"
     },
     {
-        "care_id": 77,
+        "care_id": 76,
         "products_id": 1,
         "name": "Mobizox Tablet ",
         "img": "https://i.ibb.co/Pzz8ZXW/mobizoxtablet.png",
@@ -781,7 +781,7 @@
         "Salt_Composition": "Chlorzoxazone (500mg) + Diclofenac (50mg) + Paracetamol (325mg)"
     },
     {
-        "care_id": 78,
+        "care_id": 77,
         "products_id": 1,
         "name": "Monticope Tablet ",
         "img": "https://i.ibb.co/XX4QMgy/monticopetablet.png",
@@ -794,7 +794,7 @@
         "Salt_Composition": "Levocetirizine (5mg) + Montelukast (10mg)"
     },
     {
-        "care_id": 79,
+        "care_id": 78,
         "products_id": 1,
         "name": "Myospaz Forte Tablet ",
         "img": "https://i.ibb.co/Qv4xH26/myospazfortetablet.jpg",
@@ -807,7 +807,7 @@
         "Salt_Composition": "Chlorzoxazone (500mg) + Diclofenac (50mg) + Paracetamol (325mg)"
     },
     {
-        "care_id": 80,
+        "care_id": 79,
         "products_id": 1,
         "name": "Nefrosave Tablet ",
         "img": "https://i.ibb.co/sjpq2KL/neprosavetablet.png",
@@ -820,7 +820,7 @@
         "Salt_Composition": "Taurine (500mg) + Acetylcysteine (150mg)"
     },
     {
-        "care_id": 81,
+        "care_id": 80,
         "products_id": 1,
         "name": "Nicip Tablet ",
         "img": "https://i.ibb.co/BfMhQkp/niciptablet.jpg",
@@ -833,7 +833,7 @@
         "Salt_Composition": "Nimesulide (100mg)"
     },
     {
-        "care_id": 82,
+        "care_id": 81,
         "products_id": 1,
         "name": "Nise Tablet ",
         "img": "https://i.ibb.co/y5r161w/nisetablet.jpg",
@@ -846,7 +846,7 @@
         "Salt_Composition": "Nimesulide (100mg)"
     },
     {
-        "care_id": 83,
+        "care_id": 82,
         "products_id": 1,
         "name": "Nodosis Tablet ",
         "img": "https://i.ibb.co/RhtyzWm/nodosistablet.png",
@@ -859,7 +859,7 @@
         "Salt_Composition": "Sodium Bicarbonate (500mg)"
     },
     {
-        "care_id": 84,
+        "care_id": 83,
         "products_id": 1,
         "name": "Normaxin Tablet ",
         "img": "https://i.ibb.co/WPMKKV3/normaxintablet.png",
@@ -872,7 +872,7 @@
         "Salt_Composition": "Chlordiazepoxide (5mg) + Clidinium (2.5mg) + Dicyclomine (10mg) + Rabeprazole (10mg)"
     },
     {
-        "care_id": 85,
+        "care_id": 84,
         "products_id": 1,
         "name": "Novelon Tablet ",
         "img": "https://i.ibb.co/gjSn2wr/novelontablet.jpg",
@@ -885,7 +885,7 @@
         "Salt_Composition": "Ethinyl Estradiol (0.03mg) + Desogestrel (0.15mg)"
     },
     {
-        "care_id": 86,
+        "care_id": 85,
         "products_id": 1,
         "name": "O2 Tablet ",
         "img": "https://i.ibb.co/XyYLsPm/o2tablet.jpg",
@@ -898,7 +898,7 @@
         "Salt_Composition": "Ofloxacin (200mg) + Ornidazole (500mg)"
     },
     {
-        "care_id": 87,
+        "care_id": 86,
         "products_id": 1,
         "name": "Okacet Tablet ",
         "img": "https://i.ibb.co/qpjQhkd/okacettablet.jpg",
@@ -911,7 +911,7 @@
         "Salt_Composition": "Cetirizine (10mg)"
     },
     {
-        "care_id": 88,
+        "care_id": 87,
         "products_id": 1,
         "name": "Omez Capsule ",
         "img": "https://i.ibb.co/pd2dmn1/omezcapsule.png",
@@ -924,7 +924,7 @@
         "Salt_Composition": "Omeprazole (20mg)"
     },
     {
-        "care_id": 89,
+        "care_id": 88,
         "products_id": 1,
         "name": "Ondem Syrup ",
         "img": "https://i.ibb.co/0cs3t28/ondemsyrup.png",
@@ -937,7 +937,7 @@
         "Salt_Composition": "Ondansetron (2mg/5ml)"
     },
     {
-        "care_id": 90,
+        "care_id": 89,
         "products_id": 1,
         "name": "Optineuron Injection ",
         "img": "https://i.ibb.co/th6shXc/optineuroninjection.png",
@@ -950,7 +950,7 @@
         "Salt_Composition": "Thiamine(Vitamin B1) (100mg) + Vitamin B6 (Pyridoxine) (100mg) + Cyanocobalamin (1000mcg) + Vitamin B2 (5mg) + Nicotinamide (100mg) + D-Panthenol (50mg)"
     },
     {
-        "care_id": 91,
+        "care_id": 90,
         "products_id": 1,
         "name": "Ornof Tablet ",
         "img": "https://i.ibb.co/H7VNL0r/ornoftablet.jpg",
@@ -963,7 +963,7 @@
         "Salt_Composition": "Ofloxacin (200mg) + Ornidazole (500mg)"
     },
     {
-        "care_id": 92,
+        "care_id": 91,
         "products_id": 1,
         "name": "Pacitane Tablet ",
         "img": "https://i.ibb.co/PwgTRSS/pacitanetablet.png",
@@ -976,7 +976,7 @@
         "Salt_Composition": "Trihexyphenidyl (2mg)"
     },
     {
-        "care_id": 93,
+        "care_id": 92,
         "products_id": 1,
         "name": "Pan 40 Tablet ",
         "img": "https://i.ibb.co/C7Sr7WN/pan40tablet.png",
@@ -989,7 +989,7 @@
         "Salt_Composition": "Pantoprazole (40mg)"
     },
     {
-        "care_id": 94,
+        "care_id": 93,
         "products_id": 1,
         "name": "Peinorm Tablet ",
         "img": "https://i.ibb.co/ydsnshg/perinormtablet.jpg",
@@ -1002,7 +1002,7 @@
         "Salt_Composition": "Metoclopramide (10mg)"
     },
     {
-        "care_id": 95,
+        "care_id": 94,
         "products_id": 1,
         "name": "Pulmoclear Tablet ",
         "img": "https://i.ibb.co/VtKg2JV/pulmocleartablet.png",
@@ -1015,7 +1015,7 @@
         "Salt_Composition": "Acebrophylline (100mg) + Acetylcysteine (600mg)"
     },
     {
-        "care_id": 96,
+        "care_id": 95,
         "products_id": 1,
         "name": "Q-Car Tablet ",
         "img": "https://i.ibb.co/8PxjB35/q-cartablet.png",
@@ -1028,7 +1028,7 @@
         "Salt_Composition": "Coenzyme Q10 (50mg) + Levo-carnitine (500mg)"
     },
     {
-        "care_id": 97,
+        "care_id": 96,
         "products_id": 1,
         "name": "Quadrajel Gel ",
         "img": "https://i.ibb.co/9nBDCd3/quadrajel-Gel.png",
@@ -1041,7 +1041,7 @@
         "Salt_Composition": "Lidocaine (2% w/w) + Chlorhexidine Gluconate (1% w/w) + Metronidazole (1% w/w)"
     },
     {
-        "care_id": 98,
+        "care_id": 97,
         "products_id": 1,
         "name": "Quadcream ",
         "img": "https://i.ibb.co/Wsn9PS5/quardcream.jpg",
@@ -1054,7 +1054,7 @@
         "Salt_Composition": "Beclometasone (NA) + Clioquinol (Iodochlorhydroxyquin) (NA) + Gentamicin (NA) + Tolnaftate (NA)"
     },
     {
-        "care_id": 99,
+        "care_id": 98,
         "products_id": 1,
         "name": "Qutan 50 Tablet ",
         "img": "https://i.ibb.co/88WxVvk/qutan50tablet.png",
@@ -1067,7 +1067,7 @@
         "Salt_Composition": "Quetiapine (100mg)"
     },
     {
-        "care_id": 100,
+        "care_id": 99,
         "products_id": 1,
         "name": "Refresh Tears Eye Drop ",
         "img": "https://i.ibb.co/9ZHr4k3/refreshtearseyedrop.png",
@@ -1080,7 +1080,7 @@
         "Salt_Composition": "Carboxymethylcellulose (0.5% w/v)"
     },
     {
-        "care_id": 101,
+        "care_id": 100,
         "products_id": 1,
         "name": "Reheptin Tablet ",
         "img": "https://i.ibb.co/dbdyV86/reheptintablet.png",
@@ -1093,7 +1093,7 @@
         "Salt_Composition": "Metadoxine (500mg) + Silymarin (140mg) + L-Ornithine L-Aspartate (150mg) + Vitamin B6 (Pyridoxine) (3mg) + Folic Acid (1.5mg)"
     },
     {
-        "care_id": 102,
+        "care_id": 101,
         "products_id": 1,
         "name": "ROKO Tablet ",
         "img": "https://i.ibb.co/T8MFYg8/ROKOtablet.png",
@@ -1106,7 +1106,7 @@
         "Salt_Composition": "Loperamide (2mg)"
     },
     {
-        "care_id": 103,
+        "care_id": 102,
         "products_id": 1,
         "name": "Signoflam Tablet ",
         "img": "https://i.ibb.co/3YtKNTz/signoflamtablet.png",
@@ -1119,7 +1119,7 @@
         "Salt_Composition": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg)"
     },
     {
-        "care_id": 104,
+        "care_id": 103,
         "products_id": 1,
         "name": "Sinarest Syrup ",
         "img": "https://i.ibb.co/SPLtCbg/sinarestsyrup.jpg",
@@ -1132,7 +1132,7 @@
         "Salt_Composition": "Chlorpheniramine Maleate (1mg) + Phenylephrine (5mg) + Paracetamol (125mg) + Sodium Citrate (60mg)"
     },
     {
-        "care_id": 105,
+        "care_id": 104,
         "products_id": 1,
         "name": "Sinarest Tablet ",
         "img": "https://i.ibb.co/tJwmxnh/sinaresttablet.png",
@@ -1145,7 +1145,7 @@
         "Salt_Composition": "Chlorpheniramine Maleate (2mg) + Paracetamol (500mg) + Phenylephrine (10mg)"
     },
     {
-        "care_id": 106,
+        "care_id": 105,
         "products_id": 2,
         "name": "Accusure As BP Digital Monitor",
         "image": "https://i.ibb.co/SdhyG3Y/accusureasbpdigitalmonitor.jpg",
@@ -1155,7 +1155,7 @@
         "discount": "30% OFF"
     },
     {
-        "care_id": 107,
+        "care_id": 106,
         "products_id": 2,
         "name": "Accusure Ts Blood Pressure Monitor",
         "image": "https://i.ibb.co/b3H6c9Y/accusuretsbloodpressuremonitor.jpg",
@@ -1165,7 +1165,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 108,
+        "care_id": 107,
         "products_id": 2,
         "name": "Accusure Yk Automatic Blood Pressure Monitor",
         "image": "https://i.ibb.co/nkcpVVr/accusureykautomaticbloodpressuremonitor.jpg",
@@ -1175,7 +1175,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 109,
+        "care_id": 108,
         "products_id": 2,
         "name": "Bpl B3 120/80 BP Monitor",
         "image": "https://i.ibb.co/DpTTkhC/bplb312080bpmonitor.jpg",
@@ -1185,17 +1185,7 @@
         "discount": "40% OFF"
     },
     {
-        "care_id": 110,
-        "products_id": 2,
-        "name": "Easycare Big Display Digital Blood Pressure Monitor",
-        "image": "https://i.ibb.co/vLzHM8d/easycarebigdisplaydigitalbloodpressure.jpg",
-        "original_cost": 1999,
-        "average_rating": 3.3,
-        "discount_cost": 1499,
-        "discount": "25% OFF"
-    },
-    {
-        "care_id": 111,
+        "care_id": 109,
         "products_id": 2,
         "name": "Easycare (German Tech) Digital Blood Pressure Monitor",
         "image": "https://i.ibb.co/rwVf81J/easycaredigitalbloodpressure.jpg",
@@ -1205,7 +1195,7 @@
         "discount": "50% OFF"
     },
     {
-        "care_id": 112,
+        "care_id": 110,
         "products_id": 2,
         "name": "Gibson Blood Pressure Monitor",
         "image": "https://i.ibb.co/7r27HdZ/gibsonbloodpressuremonitor.jpg",
@@ -1215,7 +1205,7 @@
         "discount": "60% OFF"
     },
     {
-        "care_id": 113,
+        "care_id": 111,
         "products_id": 2,
         "name": "Omron Hem-8712 Bp Monitor",
         "image": "https://i.ibb.co/7NqTbYp/omronhem8712bpmonitor.jpg",
@@ -1225,7 +1215,7 @@
         "discount": "43% OFF"
     },
     {
-        "care_id": 114,
+        "care_id": 112,
         "products_id": 2,
         "name": "Omron Hem-7124 Bp Monitor",
         "image": "https://i.ibb.co/QD0Xd5h/omronhem7124bpmonitor.jpg",
@@ -1235,7 +1225,7 @@
         "discount": "14% OFF"
     },
     {
-        "care_id": 115,
+        "care_id": 113,
         "products_id": 2,
         "name": "Covifind Covid-19 Rapid Antigen Self Test By Meril",
         "image": "https://i.ibb.co/ZMW2v9Q/covifind-covid-19-rapid-antigen.jpg",
@@ -1245,7 +1235,7 @@
         "discount": "5% OFF"
     },
     {
-        "care_id": 116,
+        "care_id": 114,
         "products_id": 2,
         "name": "Panbio Covid Antigen Self Test",
         "image": "https://i.ibb.co/Twbc1Mq/panbio-covid-antigen-self-test-1-test-kit.jpg",
@@ -1255,7 +1245,7 @@
         "discount": "10% OFF"
     },
     {
-        "care_id": 117,
+        "care_id": 115,
         "products_id": 2,
         "name": "Coviself Covid Self Test Kit",
         "image": "https://i.ibb.co/2h49tWn/coviselfcovidselftestkit.jpg",
@@ -1265,7 +1255,7 @@
         "discount": "30% OFF"
     },
     {
-        "care_id": 118,
+        "care_id": 116,
         "products_id": 2,
         "name": "Panbio Covid Antigen Self Test 1 Test Kits ICMR Approved",
         "image": "https://i.ibb.co/F44D2Lb/panbio4testkits.jpg",
@@ -1275,7 +1265,7 @@
         "discount": "10% OFF"
     },
     {
-        "care_id": 119,
+        "care_id": 117,
         "products_id": 2,
         "name": "Accu-Check Active Glucometer Test Strips Box of 50",
         "image": "https://i.ibb.co/31V4Sj2/accucheckactiveglucometerteststrips.jpg",
@@ -1285,7 +1275,7 @@
         "discount": "18% OFF"
     },
     {
-        "care_id": 120,
+        "care_id": 118,
         "products_id": 2,
         "name": "Accu-Check Instant Glucometer Test Strips Box of 50",
         "image": "https://i.ibb.co/vPGcsks/accucheckinstantglucometerteststrips.jpg",
@@ -1295,7 +1285,7 @@
         "discount": "9% OFF"
     },
     {
-        "care_id": 121,
+        "care_id": 119,
         "products_id": 2,
         "name": "Contour Plus Glucometer Test Strips Box of 50",
         "image": "https://i.ibb.co/dcsSwXc/contourplusglucometerteststrips.jpg",
@@ -1305,7 +1295,7 @@
         "discount": "15% OFF"
     },
     {
-        "care_id": 122,
+        "care_id": 120,
         "products_id": 2,
         "name": "Dr. Morepen Bg 03 Glucometer Test Strips Box of 25",
         "image": "https://i.ibb.co/Y7vC8yZ/drmorepenbg03glucometerteststrips.jpg",
@@ -1315,7 +1305,7 @@
         "discount": "35% OFF"
     },
     {
-        "care_id": 123,
+        "care_id": 121,
         "products_id": 2,
         "name": "Dr. Morepen Gluco One Bg 03 Glucometer Test Strips Box of 50",
         "image": "https://i.ibb.co/2ZkWScD/drmorepenglucoonebg03glucometerteststrips.jpg",
@@ -1325,7 +1315,7 @@
         "discount": "39% OFF"
     },
     {
-        "care_id": 124,
+        "care_id": 122,
         "products_id": 2,
         "name": "One Touch Select Glucometer Test Strips Bottle of 50",
         "image": "https://i.ibb.co/GtCWx6m/onetouchselectglucometerteststrips.jpg",
@@ -1335,7 +1325,7 @@
         "discount": "5% OFF"
     },
     {
-        "care_id": 125,
+        "care_id": 123,
         "products_id": 2,
         "name": "One Touch Select Plus Glucometer Test Strips Box of 25",
         "image": "https://i.ibb.co/Y7Zcsq7/onetouchselectplusglucometerteststrips.jpg",
@@ -1345,7 +1335,7 @@
         "discount": "5% OFF"
     },
     {
-        "care_id": 126,
+        "care_id": 124,
         "products_id": 2,
         "name": "One Touch Ultra Glucometer Test Strips Bottle of 50",
         "image": "https://i.ibb.co/khRc6V8/onetouchultraglucometerteststrips.jpg",
@@ -1355,7 +1345,7 @@
         "discount": "5% OFF"
     },
     {
-        "care_id": 127,
+        "care_id": 125,
         "products_id": 2,
         "name": "One Touch Verio Glucometer Test Strips Box of 50",
         "image": "https://i.ibb.co/ctSN2HH/onetouchverioglucometerteststrips.jpg",
@@ -1365,7 +1355,7 @@
         "discount": "6% OFF"
     },
     {
-        "care_id": 128,
+        "care_id": 126,
         "products_id": 2,
         "name": "Accusure Fingertip Pulse Oximeter - Yk011",
         "image": "https://i.ibb.co/8Yvrqrr/accusurefingertippulseoximeter.jpg",
@@ -1375,7 +1365,7 @@
         "discount": "62% OFF"
     },
     {
-        "care_id": 129,
+        "care_id": 127,
         "products_id": 2,
         "name": "Bpl Smart Oxy Fingertip Pulse Black Oximeter (Black)",
         "image": "https://i.ibb.co/3TSqJNN/bplsmartoxyfingertipulseblackoximeter.jpg",
@@ -1385,7 +1375,7 @@
         "discount": "70% OFF"
     },
     {
-        "care_id": 130,
+        "care_id": 128,
         "products_id": 2,
         "name": "Contec Plus Oximeter Cms50d",
         "image": "https://i.ibb.co/3vM5fG2/contecpulseoximeter.jpg",
@@ -1395,7 +1385,7 @@
         "discount": "73% OFF"
     },
     {
-        "care_id": 131,
+        "care_id": 129,
         "products_id": 2,
         "name": "Dr. Morepen Pulse Oximeter 1 Piece",
         "image": "https://i.ibb.co/KmKMNPj/drmorepenpulseoximeter1piece.jpg",
@@ -1405,7 +1395,7 @@
         "discount": "37% OFF"
     },
     {
-        "care_id": 132,
+        "care_id": 130,
         "products_id": 2,
         "name": "Dr. Odin Finger Tip Pulse Oximeter",
         "image": "https://i.ibb.co/fpNc04z/drodinfingertippulseoximeter.jpg",
@@ -1415,7 +1405,7 @@
         "discount": "69% OFF"
     },
     {
-        "care_id": 133,
+        "care_id": 131,
         "products_id": 2,
         "name": "Intex Oxicare Pulse Oximeter",
         "image": "https://i.ibb.co/qgzZnSG/intexoxicarepulseoximeter.jpg",
@@ -1425,7 +1415,7 @@
         "discount": "60% OFF"
     },
     {
-        "care_id": 134,
+        "care_id": 132,
         "products_id": 2,
         "name": "Oxysat - Finger Tip Pulse Oximeter With 2 Batteries",
         "image": "https://i.ibb.co/Y2NDfrW/oxysatfingertippulseoximeter.jpg",
@@ -1435,7 +1425,7 @@
         "discount": "40% OFF"
     },
     {
-        "care_id": 135,
+        "care_id": 133,
         "products_id": 2,
         "name": "Prozo Plus Fingertip Pulse Oximeter",
         "image": "https://i.ibb.co/gd8bNwG/prozoplusfingertippulseoximeter.jpg",
@@ -1445,7 +1435,7 @@
         "discount": "59% OFF"
     },
     {
-        "care_id": 136,
+        "care_id": 134,
         "products_id": 2,
         "name": "Trueview Pulse Oximeter",
         "image": "https://i.ibb.co/PhFXDND/trueviewpulseoximeter.jpg",
@@ -1455,7 +1445,7 @@
         "discount": "5% OFF"
     },
     {
-        "care_id": 137,
+        "care_id": 135,
         "products_id": 2,
         "name": "Accusure Digital Thermometers Mt 1027 Hard Tip (White)",
         "image": "https://i.ibb.co/Sc9sQG1/accusuredigitalthermometer.jpg",
@@ -1463,7 +1453,7 @@
         "discount_cost": 170
     },
     {
-        "care_id": 138,
+        "care_id": 136,
         "products_id": 2,
         "name": "Control D Thermometer",
         "image": "https://i.ibb.co/b7YRtLh/controldthermometer.jpg",
@@ -1473,7 +1463,7 @@
         "discount": "35% OFF"
     },
     {
-        "care_id": 139,
+        "care_id": 137,
         "products_id": 2,
         "name": "Coronation Digital Thermometer Classic Plus",
         "image": "https://i.ibb.co/P6Rhq7h/coronationdigitalthermometer.jpg",
@@ -1483,7 +1473,7 @@
         "discount": "30% OFF"
     },
     {
-        "care_id": 140,
+        "care_id": 138,
         "products_id": 2,
         "name": "Dr Ordin Digital Thermometer",
         "image": "https://i.ibb.co/RN0pMpT/drordindigitalthermometer.jpg",
@@ -1493,7 +1483,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 141,
+        "care_id": 139,
         "products_id": 2,
         "name": "Dr. Ordin Digital Thermomete- Dmt4333",
         "image": "https://i.ibb.co/FgkpL39/drordindigitalthermometer1.jpg",
@@ -1501,7 +1491,7 @@
         "discount_cost": 245
     },
     {
-        "care_id": 142,
+        "care_id": 140,
         "products_id": 2,
         "name": "Easycare 100% Safe (No Mercury) Digital Thermometer",
         "image": "https://i.ibb.co/Wf97vth/easycaresafedigitalthermometer.jpg",
@@ -1511,7 +1501,7 @@
         "discount": "60% OFF"
     },
     {
-        "care_id": 143,
+        "care_id": 141,
         "products_id": 2,
         "name": "Jumper Non Contact Ir Thermometer Jpd-Fr202",
         "image": "https://i.ibb.co/b37W96P/jumpernoncontactirthermometer.jpg",
@@ -1521,7 +1511,7 @@
         "discount": "30% OFF"
     },
     {
-        "care_id": 144,
+        "care_id": 142,
         "products_id": 2,
         "name": "Omron Digital Mc 246 Thermometer 1",
         "image": "https://i.ibb.co/NZqBsrz/omrondigitalmcthermometer.jpg",
@@ -1531,7 +1521,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 145,
+        "care_id": 143,
         "products_id": 2,
         "name": "Topnotch Digital Thermometer",
         "image": "https://i.ibb.co/HdFzn6g/topnotchdigitalthermometer.jpg",
@@ -1541,7 +1531,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 146,
+        "care_id": 144,
         "products_id": 3,
         "name": "Aptamil Stage 1 Infant Formula Baby Food Tin of 400g",
         "image": "https://i.ibb.co/C9dmwBM/aptamilstage1infantformulababyfood.jpg",
@@ -1549,7 +1539,7 @@
         "discount_cost": 740
     },
     {
-        "care_id": 147,
+        "care_id": 145,
         "products_id": 3,
         "name": "Dexolac Baby Food Stage 1 Infant Formula (Upto 6 Months) Box of 400g",
         "image": "https://i.ibb.co/qr4HQVF/dexolacbabyfoodstage1infantformula.jpg",
@@ -1557,7 +1547,7 @@
         "discount_cost": 345
     },
     {
-        "care_id": 148,
+        "care_id": 146,
         "products_id": 3,
         "name": "Fabrex Baby Food Stage 2 Followup Formula Refill of 400g",
         "image": "https://i.ibb.co/cc5K4wk/farexbabyfoodstage2.jpg",
@@ -1565,7 +1555,7 @@
         "discount_cost": 595
     },
     {
-        "care_id": 149,
+        "care_id": 147,
         "products_id": 3,
         "name": "Lactodex - Hmf Nutritional Supplement Sachet of 1g",
         "image": "https://i.ibb.co/hcvTKXX/lactodexhmfnutritional.jpg",
@@ -1573,7 +1563,7 @@
         "discount_cost": 27
     },
     {
-        "care_id": 150,
+        "care_id": 148,
         "products_id": 3,
         "name": "Nestle Lactogen 1 Infant Formula Powder - Upto 6 Months",
         "image": "https://i.ibb.co/dL0xjFL/nestlelactogen1infantformulapowder.jpg",
@@ -1581,7 +1571,7 @@
         "discount_cost": 360
     },
     {
-        "care_id": 151,
+        "care_id": 149,
         "products_id": 3,
         "name": "Nestle Nan Pro 1 Starter Infant Formula Powder - 400G",
         "image": "https://i.ibb.co/5hMr4Rx/nestlenanpro1starterinfantformulapowder.jpg",
@@ -1589,7 +1579,7 @@
         "discount_cost": 670
     },
     {
-        "care_id": 152,
+        "care_id": 150,
         "products_id": 3,
         "name": "Nestle Nan Pro 3 Follow Up Formula Powder 400G",
         "image": "https://i.ibb.co/hsLDs03/nestlenanpro3followupformulapowder.jpg",
@@ -1597,7 +1587,7 @@
         "discount_cost": 650
     },
     {
-        "care_id": 153,
+        "care_id": 151,
         "products_id": 3,
         "name": "Similac Baby Food Stage 3 Followup Infant Formula (from 12-24 months) Box of 400G",
         "image": "https://i.ibb.co/1GBKwXz/similacbabyfoodstage2followupinfantformula.jpg",
@@ -1605,7 +1595,7 @@
         "discount_cost": 380
     },
     {
-        "care_id": 154,
+        "care_id": 152,
         "products_id": 3,
         "name": "Similac Isomil Soy Baby Food Lactose Free(Upto 24 Months) Tin of 400g",
         "image": "https://i.ibb.co/wRWmZpY/similacisomilsoybabyfoodlactosefree.jpg",
@@ -1613,7 +1603,7 @@
         "discount_cost": 550
     },
     {
-        "care_id": 155,
+        "care_id": 153,
         "products_id": 3,
         "name": "Liveasy Foods Chia Seeds",
         "image": "https://i.ibb.co/yfC2Wfz/liveasyfoodschiaseeds.jpg",
@@ -1623,7 +1613,7 @@
         "discount": "50% OFF"
     },
     {
-        "care_id": 156,
+        "care_id": 154,
         "products_id": 3,
         "name": "Liveasy Wellness Zero Calorie Sugar Substitute (Sugar Free) Tablets",
         "image": "https://i.ibb.co/Ykx177b/liveasywellnesszerocaloriesugarsubstitute.jpg",
@@ -1633,7 +1623,7 @@
         "discount": "10% OFF"
     },
     {
-        "care_id": 157,
+        "care_id": 155,
         "products_id": 3,
         "name": "Sugar Free Gold Sweetner Tablets Strip of 500",
         "image": "https://i.ibb.co/tpHh3Jm/sugarfreegoldsweetnertablets.jpg",
@@ -1643,7 +1633,7 @@
         "discount": "17% OFF"
     },
     {
-        "care_id": 158,
+        "care_id": 156,
         "products_id": 3,
         "name": "Sugar Free Green Made From Stevia 100% Natural 200gm Jar",
         "image": "https://i.ibb.co/4jHPnT9/sugarfreegreenmadefromstevia.jpg",
@@ -1653,7 +1643,7 @@
         "discount": "17% OFF"
     },
     {
-        "care_id": 159,
+        "care_id": 157,
         "products_id": 3,
         "name": "Sugar Free Natura Sweetner Tablets Bottle of 500",
         "image": "https://i.ibb.co/S7drLtV/sugarfreenaturasweetnertablets.jpg",
@@ -1663,7 +1653,7 @@
         "discount": "13% OFF"
     },
     {
-        "care_id": 160,
+        "care_id": 158,
         "products_id": 3,
         "name": "Sugarlite 50% Less Calories Sugar Pouch 500gm",
         "image": "https://i.ibb.co/Km1T7QV/sugarlitesweetnetpowder.jpg",
@@ -1673,7 +1663,7 @@
         "discount": "17% OFF"
     },
     {
-        "care_id": 161,
+        "care_id": 159,
         "products_id": 3,
         "name": "Zindagi Instant Green Coffee Powder Sachets",
         "image": "https://i.ibb.co/bgjtZbK/zindagiinstantgreencoffeepowder.jpg",
@@ -1683,7 +1673,7 @@
         "discount": "15% OFF"
     },
     {
-        "care_id": 162,
+        "care_id": 160,
         "products_id": 3,
         "name": "Zindagi Stevia Liquid Drops - Natural Sweetner Stevia Sugarfree",
         "image": "https://i.ibb.co/P6v58Rw/zindagistevialiquiddrops.jpg",
@@ -1693,7 +1683,7 @@
         "discount": "15% OFF"
     },
     {
-        "care_id": 163,
+        "care_id": 161,
         "products_id": 3,
         "name": "Zindagi Stevia Sachets Sugarfree - Natural Vegan Friendly Sweetner 50 Sachets",
         "image": "https://i.ibb.co/4KsFCkZ/zindagisteviasachetssugarfree.jpg",
@@ -1703,7 +1693,7 @@
         "discount": "15% OFF"
     },
     {
-        "care_id": 164,
+        "care_id": 162,
         "products_id": 3,
         "name": "Dabur Honey Squeezy - 400g (Buy 1 Get 1 Free)",
         "image": "https://i.ibb.co/x6SvzMJ/daburhoneysqueezy.jpg",
@@ -1713,7 +1703,7 @@
         "discount": "14% OFF"
     },
     {
-        "care_id": 165,
+        "care_id": 163,
         "products_id": 3,
         "name": "Liveasy Foods Healthy Roasted Seed Mix - Blend Of 6 Fibre Rich Healthy Roasted Seeds",
         "image": "https://i.ibb.co/y5CRtdM/liveasyfoodshealthyseedmix.jpg",
@@ -1723,7 +1713,7 @@
         "discount": "45% OFF"
     },
     {
-        "care_id": 166,
+        "care_id": 164,
         "products_id": 3,
         "name": "Liveasy Foods Roasted Peri Peri Makhana - Rich in Protein & Fibre",
         "image": "https://i.ibb.co/Lx4bC7P/liveasyfoodsroastedperiperimakhana.jpg",
@@ -1733,7 +1723,7 @@
         "discount": "50% OFF"
     },
     {
-        "care_id": 167,
+        "care_id": 165,
         "products_id": 3,
         "name": "Pediasure Cookies Cream Child Nutrition Drink Refill of 400g",
         "image": "https://i.ibb.co/jMVYCNk/pediasure7-chocolaterefill.jpg",
@@ -1743,7 +1733,7 @@
         "discount": "7% OFF"
     },
     {
-        "care_id": 168,
+        "care_id": 166,
         "products_id": 3,
         "name": "Ritebite Max Protein Ultimate Choco Berry Protein Bars 600g",
         "image": "https://i.ibb.co/FJtSHMz/ritebitemaxproteinultimatechoco.jpg",
@@ -1753,7 +1743,7 @@
         "discount": "15% OFF"
     },
     {
-        "care_id": 169,
+        "care_id": 167,
         "products_id": 3,
         "name": "Saffola Honey 100% Pure 500gm",
         "image": "https://i.ibb.co/D564r8d/saffolahoneyppure.jpg",
@@ -1763,7 +1753,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 170,
+        "care_id": 168,
         "products_id": 3,
         "name": "Threptin Chocolate Nutrition Diskettes Tin of 275g",
         "image": "https://i.ibb.co/kMjRqqC/threptinchocolatenutritiondiskettes.jpg",
@@ -1773,7 +1763,7 @@
         "discount": "15% OFF"
     },
     {
-        "care_id": 171,
+        "care_id": 169,
         "products_id": 3,
         "name": "Threptin Lite Vanilla Butterscotch Nutrition Diskettes Tin of 275g",
         "image": "https://i.ibb.co/pyJtMPg/threptinlitevanilabutterscotch.jpg",
@@ -1783,7 +1773,7 @@
         "discount": "22% OFF"
     },
     {
-        "care_id": 173,
+        "care_id": 170,
         "products_id": 3,
         "name": "Zandu Pure Honey Health Food Bottle Of 500g",
         "image": "https://i.ibb.co/8zz47HZ/zandupurehoneyhealthfoodbottle.jpg",
@@ -1793,7 +1783,7 @@
         "discount": "15% OFF"
     },
     {
-        "care_id": 173,
+        "care_id": 171,
         "products_id": 3,
         "name": "B-Protin Chocolate Nutrition Supplement Bottle of 500g",
         "image": "https://i.ibb.co/S3XKJss/bprotinchocolatesupplement.jpg",
@@ -1803,7 +1793,7 @@
         "discount": "35% OFF"
     },
     {
-        "care_id": 174,
+        "care_id": 172,
         "products_id": 3,
         "name": "Cadbury Bournvita Nutrition Drink Jar of 500g",
         "image": "https://i.ibb.co/F8Q4kH2/cadburybournvitadrink.jpg",
@@ -1813,7 +1803,7 @@
         "discount": "10% OFF"
     },
     {
-        "care_id": 175,
+        "care_id": 173,
         "products_id": 3,
         "name": "Cadbury Bournvita Lil Champs Nutrition Drink Jar of 500g",
         "image": "https://i.ibb.co/4VXkts4/cadburybournvitalilchamps.jpg",
@@ -1823,7 +1813,7 @@
         "discount": "15% OFF"
     },
     {
-        "care_id": 176,
+        "care_id": 174,
         "products_id": 3,
         "name": "Ensure Chocolate Nutrition Drink Refill Of 400g",
         "image": "https://i.ibb.co/QfrTLks/ensurechocolatedrink.jpg",
@@ -1833,7 +1823,7 @@
         "discount": "8% OFF"
     },
     {
-        "care_id": 177,
+        "care_id": 175,
         "products_id": 3,
         "name": "Ensure Vanilla Nutrition Drink Refill Of 400g",
         "image": "https://i.ibb.co/w6s5Vzb/ensurevanilanutritiondrink.jpg",
@@ -1843,7 +1833,7 @@
         "discount": "8% OFF"
     },
     {
-        "care_id": 178,
+        "care_id": 176,
         "products_id": 3,
         "name": "Everherb Amla Juice-Rich In Vitamin C-Natural Immunity Booster",
         "image": "https://i.ibb.co/cwCX9sD/everherbamlajuicerichinvitaminc.jpg",
@@ -1853,7 +1843,7 @@
         "discount": "50% OFF"
     },
     {
-        "care_id": 179,
+        "care_id": 177,
         "products_id": 3,
         "name": "Groviva Chocolate Child Nutrition Supplement Jar of 400g",
         "image": "https://i.ibb.co/PmYNLVR/grovivachocolatechildnutritionsupplement.jpg",
@@ -1863,7 +1853,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 180,
+        "care_id": 178,
         "products_id": 3,
         "name": "Horlicks Women's Plus Caramel Jar, 400g",
         "image": "https://i.ibb.co/KKHFmn0/horlickswomenplus.jpg",
@@ -1873,7 +1863,7 @@
         "discount": "7% OFF"
     },
     {
-        "care_id": 181,
+        "care_id": 179,
         "products_id": 4,
         "name": "Calcimax 500 Health Supplement Tablets (500 Mg Of Calcium)Box Of 30",
         "image": "https://i.ibb.co/wp0WdxK/calcimax500healthsupplementtablets.jpg",
@@ -1883,7 +1873,7 @@
         "discount": "25% OFF"
     },
     {
-        "care_id": 182,
+        "care_id": 180,
         "products_id": 4,
         "name": "Evion Lc Strip Of 10 Tablets",
         "image": "https://i.ibb.co/Ht83XZ9/evionlcstripof10tablets.jpg",
@@ -1891,7 +1881,7 @@
         "discount_cost": 51
     },
     {
-        "care_id": 183,
+        "care_id": 181,
         "products_id": 4,
         "name": "Himalaya Liv.52 Ds Tablets - 60'S",
         "image": "https://i.ibb.co/N1DfW63/himalayaliv52tablets.jpg",
@@ -1901,7 +1891,7 @@
         "discount": "23% OFF"
     },
     {
-        "care_id": 184,
+        "care_id": 182,
         "products_id": 4,
         "name": "Himalaya Septilin Tablets - 60'S",
         "image": "https://i.ibb.co/YRQk9P4/himalayaseptilintablets.jpg",
@@ -1911,7 +1901,7 @@
         "discount": "23% OFF"
     },
     {
-        "care_id": 185,
+        "care_id": 183,
         "products_id": 4,
         "name": "Liveasy Wellness Calcium, Magnesium, Vitamin D3 & Zinc - Bones & Dental Health",
         "image": "https://i.ibb.co/T8bCF89/liveasywellnesscalciummagesium.jpg",
@@ -1921,7 +1911,7 @@
         "discount": "45% OFF"
     },
     {
-        "care_id": 186,
+        "care_id": 184,
         "products_id": 4,
         "name": "Omnigel Gel 75gm",
         "image": "https://i.ibb.co/7g5r7bD/omnigelgel75gm.jpg",
@@ -1931,7 +1921,7 @@
         "discount": "30% OFF"
     },
     {
-        "care_id": 187,
+        "care_id": 185,
         "products_id": 4,
         "name": "Volini Pain Relief Gel - 30gm",
         "image": "https://i.ibb.co/V970mwB/volinipainreliefgeltubeof75g.jpg",
@@ -1941,7 +1931,7 @@
         "discount": "30% OFF"
     },
     {
-        "care_id": 188,
+        "care_id": 186,
         "products_id": 4,
         "name": "Volin Pain Relief Gel Tube Of 75G",
         "image": "https://i.ibb.co/Gt3KHrJ/volinipainreliefspray.jpg",
@@ -1951,7 +1941,7 @@
         "discount": "17% OFF"
     },
     {
-        "care_id": 189,
+        "care_id": 187,
         "products_id": 4,
         "name": "Zandu Ultra Power Balm 8Ml",
         "image": "https://i.ibb.co/5k8kkvN/zanduultrapowerbalm.jpg",
@@ -1961,7 +1951,7 @@
         "discount": "10% OFF"
     },
     {
-        "care_id": 190,
+        "care_id": 188,
         "products_id": 4,
         "name": "Allen A11 Eczema Drops 30 Ml",
         "image": "https://i.ibb.co/PZPGVL8/allena11eczemadrops.jpg",
@@ -1971,7 +1961,7 @@
         "discount": "30% OFF"
     },
     {
-        "care_id": 191,
+        "care_id": 189,
         "products_id": 4,
         "name": "Allen A37 Renal Calculi Drops 30ml",
         "image": "https://i.ibb.co/8N82P2D/allena37renalcalculidrops.jpg",
@@ -1981,7 +1971,7 @@
         "discount": "30% OFF"
     },
     {
-        "care_id": 192,
+        "care_id": 190,
         "products_id": 4,
         "name": "Allen A39 Anti Obesity Drops 30ml",
         "image": "https://i.ibb.co/Hp8PHys/allena39antiobesitydrops.jpg",
@@ -1991,7 +1981,7 @@
         "discount": "30% OFF"
     },
     {
-        "care_id": 193,
+        "care_id": 191,
         "products_id": 4,
         "name": "Allen A46 ",
         "image": "https://i.ibb.co/7SL3RnZ/allena46antidandruffdrops.jpg",
@@ -2001,7 +1991,7 @@
         "discount": "30% OFF"
     },
     {
-        "care_id": 194,
+        "care_id": 192,
         "products_id": 4,
         "name": "Allen A86 Protenuria Drops 30ml",
         "image": "https://i.ibb.co/Jpy0N5n/allena86proteinuriadrops.jpg",
@@ -2011,7 +2001,7 @@
         "discount": "30% OFF"
     },
     {
-        "care_id": 195,
+        "care_id": 193,
         "products_id": 4,
         "name": "Allen Arsenicum Album 30ml",
         "image": "https://i.ibb.co/nwXzbc3/allenarsenicumalbum.jpg",
@@ -2021,7 +2011,7 @@
         "discount": "18% OFF"
     },
     {
-        "care_id": 196,
+        "care_id": 194,
         "products_id": 4,
         "name": "Baksons Acne Aid Tablet 75",
         "image": "https://i.ibb.co/MD69TjB/baksonsacneaidtablet.jpg",
@@ -2031,7 +2021,7 @@
         "discount": "30% OFF"
     },
     {
-        "care_id": 197,
+        "care_id": 195,
         "products_id": 4,
         "name": "Wheezal Wl 46 Drops 30ml",
         "image": "https://i.ibb.co/RQ1rTSp/wheezalwl11drops.jpg",
@@ -2041,7 +2031,7 @@
         "discount": "30% OFF"
     },
     {
-        "care_id": 198,
+        "care_id": 196,
         "products_id": 4,
         "name": "Baksons B23 Skin Drops 30ml",
         "image": "https://i.ibb.co/L9yNpPT/baksonsb23skindrops.jpg",
@@ -2051,7 +2041,7 @@
         "discount": "30% OFF"
     },
     {
-        "care_id": 199,
+        "care_id": 197,
         "products_id": 4,
         "name": "Charak Neo Tablets",
         "image": "https://i.ibb.co/V2qPdsf/charakneotablets.jpg",
@@ -2061,7 +2051,7 @@
         "discount": "25% OFF"
     },
     {
-        "care_id": 200,
+        "care_id": 198,
         "products_id": 4,
         "name": "Everherb Shilajit 500mg - Natural Vigour Improvement",
         "image": "https://i.ibb.co/WvjL49M/everherbshilajit.jpg",
@@ -2071,7 +2061,7 @@
         "discount": "50% OFF"
     },
     {
-        "care_id": 201,
+        "care_id": 199,
         "products_id": 4,
         "name": "Himalaya Confido Tablets 60'S",
         "image": "https://i.ibb.co/9tGcgtd/himalayaconfidotablets.jpg",
@@ -2081,7 +2071,7 @@
         "discount": "13% OFF"
     },
     {
-        "care_id": 202,
+        "care_id": 200,
         "products_id": 4,
         "name": "Himalaya Gokshura Tablets 60'S",
         "image": "https://i.ibb.co/pjwV4sj/himalayagokshuratablets.jpg",
@@ -2091,7 +2081,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 203,
+        "care_id": 201,
         "products_id": 4,
         "name": "Himalaya Himcolin Gel - 30g",
         "image": "https://i.ibb.co/Kz4dFLq/himalayahimcolingel.jpg",
@@ -2101,7 +2091,7 @@
         "discount": "16% OFF"
     },
     {
-        "care_id": 204,
+        "care_id": 202,
         "products_id": 4,
         "name": "Himalaya Himplasia Tablets - 30'S",
         "image": "https://i.ibb.co/GHS8LXy/himalayahimplasiatablets.jpg",
@@ -2111,7 +2101,7 @@
         "discount": "18% OFF"
     },
     {
-        "care_id": 205,
+        "care_id": 203,
         "products_id": 4,
         "name": "Himalaya Tentex Forte Tablets",
         "image": "https://i.ibb.co/mGttD0y/himalayatentexfortetablets.jpg",
@@ -2121,7 +2111,7 @@
         "discount": "10% OFF"
     },
     {
-        "care_id": 206,
+        "care_id": 204,
         "products_id": 4,
         "name": "Himalaya Wellness Pure Herbs Kapikachhu Sexual Wellness Tablets Bottle of 60",
         "image": "https://i.ibb.co/xLpJK8k/himalayawellnesspureherbskapikachhu.jpg",
@@ -2131,7 +2121,7 @@
         "discount": "10% OFF"
     },
     {
-        "care_id": 207,
+        "care_id": 205,
         "products_id": 4,
         "name": "Kapiva Himalayan Shilajit Resin - 20g",
         "image": "https://i.ibb.co/NrNbW52/kapivahimalayanshilajitresin.jpg",
@@ -2141,7 +2131,7 @@
         "discount": "25% OFF"
     },
     {
-        "care_id": 208,
+        "care_id": 206,
         "products_id": 5,
         "name": "Covifind Covid-19 Rapid Antigen Self Test By Meril",
         "image": "https://i.ibb.co/ZMW2v9Q/covifind-covid-19-rapid-antigen.jpg",
@@ -2151,7 +2141,7 @@
         "discount": "5% OFF"
     },
     {
-        "care_id": 209,
+        "care_id": 207,
         "products_id": 5,
         "name": "Panbio Covid Antigen Self Test",
         "image": "https://i.ibb.co/Twbc1Mq/panbio-covid-antigen-self-test-1-test-kit.jpg",
@@ -2161,7 +2151,7 @@
         "discount": "10% OFF"
     },
     {
-        "care_id": 210,
+        "care_id": 208,
         "products_id": 5,
         "name": "Coviself Covid Self Test Kit",
         "image": "https://i.ibb.co/2h49tWn/coviselfcovidselftestkit.jpg",
@@ -2171,7 +2161,7 @@
         "discount": "30% OFF"
     },
     {
-        "care_id": 211,
+        "care_id": 209,
         "products_id": 5,
         "name": "Panbio Covid Antigen Self Test 1 Test Kits ICMR Approved",
         "image": "https://i.ibb.co/F44D2Lb/panbio4testkits.jpg",
@@ -2181,7 +2171,7 @@
         "discount": "10% OFF"
     },
     {
-        "care_id": 212,
+        "care_id": 210,
         "products_id": 5,
         "name": "B D Alcohol Swabs Box Of 100'S",
         "image": "https://i.ibb.co/r0L6yZj/BDalcoholswabsbox-of-100-s.jpg",
@@ -2191,7 +2181,7 @@
         "discount": "22% OFF"
     },
     {
-        "care_id": 213,
+        "care_id": 211,
         "products_id": 5,
         "name": "Cofsils Experdine Gargle 100Ml",
         "image": "https://i.ibb.co/xSgnWQc/cofsilsexperdinegargle100ml.jpg",
@@ -2201,7 +2191,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 214,
+        "care_id": 212,
         "products_id": 5,
         "name": "Dettol Antiseptic Liquid Bottle Of 550Ml",
         "image": "https://i.ibb.co/GnjnsHX/dettolantisepticliquid550ml.jpg",
@@ -2209,7 +2199,7 @@
         "discount_cost": 194
     },
     {
-        "care_id": 215,
+        "care_id": 213,
         "products_id": 5,
         "name": "Dettol Liquid Disinfectant Sanitizer Spray Bottle - Spring Blossom ",
         "image": "https://i.ibb.co/ChX5Zg5/dettoldisinfectantsanitizerbottle.jpg",
@@ -2219,7 +2209,7 @@
         "discount": "19% OFF"
     },
     {
-        "care_id": 216,
+        "care_id": 214,
         "products_id": 5,
         "name": "Dettol Disinfection Kit (Clinical Strength Sanitizer, Disinfectant Wipes & Disinfection Spray",
         "image": "https://i.ibb.co/SNdQhvV/dettoldisinfectionkit.jpg",
@@ -2229,7 +2219,7 @@
         "discount": "17% OFF"
     },
     {
-        "care_id": 217,
+        "care_id": 215,
         "products_id": 5,
         "name": "Dettol Liquid Disinfectant For Floor Cleaner, Surface Disinfection Personal Hygiene Lime Fresh 500Ml",
         "image": "https://i.ibb.co/nbdyH6j/dettolliquiddisinfectant.jpg",
@@ -2239,7 +2229,7 @@
         "discount": "14% OFF"
     },
     {
-        "care_id": 218,
+        "care_id": 216,
         "products_id": 5,
         "name": "Lizol Citrus Disinfectant Floor Cleaner Liquid Bottle of 975Ml",
         "image": "https://i.ibb.co/T1GFt5F/lizolcitrusdisinfectantfloorcleanerliquid.jpg",
@@ -2249,7 +2239,7 @@
         "discount": "4% OFF"
     },
     {
-        "care_id": 219,
+        "care_id": 217,
         "products_id": 5,
         "name": "Lupisafe Disinfectant Spray - 170g",
         "image": "https://i.ibb.co/GxhTTPw/lupisafedisinfectantspray.jpg",
@@ -2259,7 +2249,7 @@
         "discount": "15% OFF"
     },
     {
-        "care_id": 220,
+        "care_id": 218,
         "products_id": 5,
         "name": "3 Ply Mask Packet Of 50",
         "image": "https://i.ibb.co/xCh0kKY/3plymaskpacketof50.jpg",
@@ -2269,7 +2259,7 @@
         "discount": "85% OFF"
     },
     {
-        "care_id": 221,
+        "care_id": 219,
         "products_id": 5,
         "name": "Bodyguard N95 + Pm2.5 Ffp2 Anti Pollution Face Mask With 5 Layer Protection - Pack Of 1",
         "image": "https://i.ibb.co/W3Y7Jvm/bodyguardn95.jpg",
@@ -2279,7 +2269,7 @@
         "discount": "25% OFF"
     },
     {
-        "care_id": 222,
+        "care_id": 220,
         "products_id": 5,
         "name": "Dettol D95 Mask Anti Virus Reusable & Washable (Black Colour)",
         "image": "https://i.ibb.co/87tb7Z4/dettold95maskantivirus.jpg",
@@ -2289,7 +2279,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 223,
+        "care_id": 221,
         "products_id": 5,
         "name": "Dettol N95 Mask Antivirus Reusable & Washable (Black Large) ",
         "image": "https://i.ibb.co/Hd79gYN/dettoln95maskantivirus.jpg",
@@ -2299,7 +2289,7 @@
         "discount": "10% OFF"
     },
     {
-        "care_id": 224,
+        "care_id": 222,
         "products_id": 5,
         "name": "Fusion Flo Ff 3065 Mask - Anti Pollution | Anti Dust | Anti Bacterial | Anti Viral",
         "image": "https://i.ibb.co/MBDYXMS/fusionfloff3065mask.jpg",
@@ -2307,7 +2297,7 @@
         "discount_cost": 99
     },
     {
-        "care_id": 225,
+        "care_id": 223,
         "products_id": 5,
         "name": "Tri-Activ N95 Masks With 6 Layer Protection Anti-Virus Coating 99.5% Filtration Efficiency",
         "image": "https://i.ibb.co/z8SFKBp/triactivn95maskswith6layer.jpg",
@@ -2317,7 +2307,7 @@
         "discount": "40% OFF"
     },
     {
-        "care_id": 226,
+        "care_id": 224,
         "products_id": 5,
         "name": "Wildcraft Supermask W95 Reusable Outdoor Respirator Mask Anti-Dust Anti-Bacterial Anti-Pollution L",
         "image": "https://i.ibb.co/HhBwxNw/wildcraftsupermask2w95.jpg",
@@ -2327,7 +2317,7 @@
         "discount": "10% OFF"
     },
     {
-        "care_id": 227,
+        "care_id": 225,
         "products_id": 5,
         "name": "3 Ply Mask Packet Of 100",
         "image": "https://i.ibb.co/gRtz3r5/3plymaskpacketof100.jpg",
@@ -2337,7 +2327,7 @@
         "discount": "60% OFF"
     },
     {
-        "care_id": 228,
+        "care_id": 226,
         "products_id": 5,
         "name": "Ciphands Hand Sanitizer Bottle Of 100 Ml",
         "image": "https://i.ibb.co/dK2jGhf/ciphandshandsanitizer.jpg",
@@ -2347,7 +2337,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 229,
+        "care_id": 227,
         "products_id": 5,
         "name": "Ciphands Hand Sanitizer 500 Ml",
         "image": "https://i.ibb.co/52TRj1r/ciphandsprofessional.jpg",
@@ -2357,7 +2347,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 230,
+        "care_id": 228,
         "products_id": 5,
         "name": "Dettol Hand Sanitizer Liquid Gel Pump | 70% Alcohol, Kills 99.9% Germs- 200ml",
         "image": "https://i.ibb.co/5Rfc21v/dettolhandsanitizer.jpg",
@@ -2367,7 +2357,7 @@
         "discount": "5% OFF"
     },
     {
-        "care_id": 231,
+        "care_id": 229,
         "products_id": 5,
         "name": "Liveasy Essentials Instant Hand Sanitizer-Kills 99.9% Germs - Gel Based - 200ml",
         "image": "https://i.ibb.co/8gXFNgL/liveasyessentialsinstant.jpg",
@@ -2377,7 +2367,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 232,
+        "care_id": 230,
         "products_id": 5,
         "name": "Lupisafe Alcohol Based Hand Sanitizer - 100ml",
         "image": "https://i.ibb.co/7kZQwZj/lupisafesanitizer.jpg",
@@ -2387,7 +2377,7 @@
         "discount": "36% OFF"
     },
     {
-        "care_id": 233,
+        "care_id": 231,
         "products_id": 5,
         "name": "Luxor Nano Pen Sanitizer Spray With Refill Bottle 10 Ml + 20 Ml - Classic",
         "image": "https://i.ibb.co/sK9QyLD/luxornanopensanitizerspray.jpg",
@@ -2397,7 +2387,7 @@
         "discount": "45% OFF"
     },
     {
-        "care_id": 234,
+        "care_id": 232,
         "products_id": 5,
         "name": "Samrvir Forest Herbs Hand Sanitizer 500 Ml",
         "image": "https://i.ibb.co/714L8qB/samrvirforestherbs.jpg",
@@ -2407,7 +2397,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 235,
+        "care_id": 233,
         "products_id": 6,
         "name": "Durex Condom Air- 10s Pack Of 3",
         "image": "https://i.ibb.co/d6kSmyC/durexairpacketof10condoms.jpg",
@@ -2417,7 +2407,7 @@
         "discount": "25% OFF"
     },
     {
-        "care_id": 236,
+        "care_id": 234,
         "products_id": 6,
         "name": "Durex Extra Thin Packet Of 10 Condoms",
         "image": "https://i.ibb.co/f2tVSKS/durexextrathinpacketof10condoms.jpg",
@@ -2427,7 +2417,7 @@
         "discount": "28% OFF"
     },
     {
-        "care_id": 237,
+        "care_id": 235,
         "products_id": 6,
         "name": "Durex Extra Time Packet Of 10 Condoms",
         "image": "https://i.ibb.co/zGMgcBP/durexextratimepacketof10condoms.jpg",
@@ -2437,7 +2427,7 @@
         "discount": "31% OFF"
     },
     {
-        "care_id": 238,
+        "care_id": 236,
         "products_id": 6,
         "name": "Durex Invisible Super Ultra Thin Condoms For Men - 10s",
         "image": "https://i.ibb.co/crtfZy7/durexinvisibleultrathincondoms.jpg",
@@ -2447,7 +2437,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 239,
+        "care_id": 237,
         "products_id": 6,
         "name": "Manforce Wild Chocolate Box Of 10 Condoms",
         "image": "https://i.ibb.co/Twf5JgP/manforcewildchocolateboxof10condoms.jpg",
@@ -2457,7 +2447,7 @@
         "discount": "30% OFF"
     },
     {
-        "care_id": 240,
+        "care_id": 238,
         "products_id": 6,
         "name": "Skore Duo Max Premium Condoms - 10'S",
         "image": "https://i.ibb.co/CznpDXm/skoreduomaxpremiumcondoms.jpg",
@@ -2467,7 +2457,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 241,
+        "care_id": 239,
         "products_id": 6,
         "name": "I-Pill Daily Oral Contraceptive Pills For 21 Days",
         "image": "https://i.ibb.co/DwNG9xf/ipilldailyoralcontraceptivepills.jpg",
@@ -2477,7 +2467,7 @@
         "discount": "25% OFF"
     },
     {
-        "care_id": 242,
+        "care_id": 240,
         "products_id": 6,
         "name": "I Pill Tab",
         "image": "https://i.ibb.co/CK80g4c/ipilltab.jpg",
@@ -2487,7 +2477,7 @@
         "discount": "10% OFF"
     },
     {
-        "care_id": 243,
+        "care_id": 241,
         "products_id": 6,
         "name": "Unwanted 72 Strip Of 1 Tablet",
         "image": "https://i.ibb.co/v3c70Ck/unwanted72-tripof1tablet.jpg",
@@ -2497,7 +2487,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 244,
+        "care_id": 242,
         "products_id": 6,
         "name": "I Can Pregnancy Test Kit",
         "image": "https://i.ibb.co/gSdnnY7/icanpregnancytestkit.jpg",
@@ -2507,7 +2497,7 @@
         "discount": "36% OFF"
     },
     {
-        "care_id": 245,
+        "care_id": 243,
         "products_id": 6,
         "name": "Make Sure Pregnancy Test Kits - Mini",
         "image": "https://i.ibb.co/kq5zXwb/makesurepregnancytestkits.jpg",
@@ -2517,7 +2507,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 246,
+        "care_id": 244,
         "products_id": 6,
         "name": "Mamaxpert Pregtest Pregnancy Test Kit",
         "image": "https://i.ibb.co/Th5KmJK/mamaxpertpregtestpregnancytestkit.jpg",
@@ -2527,7 +2517,7 @@
         "discount": "5% OFF"
     },
     {
-        "care_id": 247,
+        "care_id": 245,
         "products_id": 6,
         "name": "Prega News Pregnancy Test Kit",
         "image": "https://i.ibb.co/C2NyVNH/preganewspregnancytestkit.jpg",
@@ -2537,7 +2527,7 @@
         "discount": "40% OFF"
     },
     {
-        "care_id": 248,
+        "care_id": 246,
         "products_id": 6,
         "name": "Pregline Card Pregnancy Test Kit",
         "image": "https://i.ibb.co/pQby79H/preglinecardpregnancytestkit.jpg",
@@ -2547,7 +2537,7 @@
         "discount": "5% OFF"
     },
     {
-        "care_id": 249,
+        "care_id": 247,
         "products_id": 7,
         "name": "Emami Emasol Dish Wash Gel- Lemon - 900 Ml",
         "image": "https://i.ibb.co/44tmC9r/emamiemasoldishwashgel.jpg",
@@ -2557,7 +2547,7 @@
         "discount": "14% OFF"
     },
     {
-        "care_id": 250,
+        "care_id": 248,
         "products_id": 7,
         "name": "Exo Bar 300gm",
         "image": "https://i.ibb.co/3yM7kzZ/exobar300gm.jpg",
@@ -2567,7 +2557,7 @@
         "discount": "15% OFF"
     },
     {
-        "care_id": 251,
+        "care_id": 249,
         "products_id": 7,
         "name": "Exo Safai Big - Scrubber (Set Of 4)",
         "image": "https://i.ibb.co/7VH2d7v/exosafaibigscrubber.jpg",
@@ -2577,7 +2567,7 @@
         "discount": "14% OFF"
     },
     {
-        "care_id": 252,
+        "care_id": 250,
         "products_id": 7,
         "name": "Exo Steel Scrubber (Set Of 3)",
         "image": "https://i.ibb.co/6mVPtvZ/exosteelscrubber.jpg",
@@ -2587,7 +2577,7 @@
         "discount": "16% OFF"
     },
     {
-        "care_id": 253,
+        "care_id": 251,
         "products_id": 7,
         "name": "Exo Super Gel Ginger Dishwash Gel 250 G",
         "image": "https://i.ibb.co/fxtRW04/exosupergelginger.jpg",
@@ -2597,7 +2587,7 @@
         "discount": "13% OFF"
     },
     {
-        "care_id": 254,
+        "care_id": 252,
         "products_id": 7,
         "name": "Exo Touch & Shine Round Dishwash Bar (700 G)",
         "image": "https://i.ibb.co/G56vLDM/exotouch-shinerounddishwashbar.jpg",
@@ -2607,7 +2597,7 @@
         "discount": "15% OFF"
     },
     {
-        "care_id": 255,
+        "care_id": 253,
         "products_id": 7,
         "name": "Godrej Protekt Germ Protection Dish Wash Liquid Gel, Removes Grease, Lime Fragnance - 750ml",
         "image": "https://i.ibb.co/L63thG3/godrejprotektgermprotectiondishwash.jpg",
@@ -2617,7 +2607,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 256,
+        "care_id": 254,
         "products_id": 7,
         "name": "Pril Dishwash Bar Lime Vinegar 400g",
         "image": "https://i.ibb.co/B6w6qgQ/prillime-vinegardishwashbar.jpg",
@@ -2627,7 +2617,7 @@
         "discount": "15% OFF"
     },
     {
-        "care_id": 257,
+        "care_id": 255,
         "products_id": 7,
         "name": "Bodyguard Natural Mosquito Repellent Cream With Aloe Vera And Neem Extracts - 50gm",
         "image": "https://i.ibb.co/vhG8QVG/bodyguardnaturalmosquitorepellent.jpg",
@@ -2637,7 +2627,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 258,
+        "care_id": 256,
         "products_id": 7,
         "name": "Buddsbuddy Mosquito Repellent Patches - 12pc",
         "image": "https://i.ibb.co/xSSHtg5/buddsbuddymosquitorepellentpatches.jpg",
@@ -2647,7 +2637,7 @@
         "discount": "23% OFF"
     },
     {
-        "care_id": 260,
+        "care_id": 257,
         "products_id": 7,
         "name": "Chicco Baby Anti Mosquito Spray 100ml",
         "image": "https://i.ibb.co/SsbHs1S/chiccobabyantimosquitospray.jpg",
@@ -2657,7 +2647,7 @@
         "discount": "13% OFF"
     },
     {
-        "care_id": 261,
+        "care_id": 258,
         "products_id": 7,
         "name": "Dabur Odomos Naturals Cream 100gm",
         "image": "https://i.ibb.co/hRJ3n13/daburodomosnaturalscream.jpg",
@@ -2667,7 +2657,7 @@
         "discount": "17% OFF"
     },
     {
-        "care_id": 262,
+        "care_id": 259,
         "products_id": 7,
         "name": "Dr Morepen Quit & Out Mosquito Repellent Cream - 50gm",
         "image": "https://i.ibb.co/TwHT6gw/drmorepenquit-outmosquitorepellent.jpg",
@@ -2677,7 +2667,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 263,
+        "care_id": 260,
         "products_id": 7,
         "name": "Godrej Goodknight Fabric Roll - On - Citrus - 8ml",
         "image": "https://i.ibb.co/vsxKfF6/godrejgoodknightfabricrollon.jpg",
@@ -2687,17 +2677,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 264,
-        "products_id": 7,
-        "name": "https://i.ibb.co/SVd952g/godrejgoodknightnaturalneemagarbatti.jpg",
-        "image": "https://i.ibb.co/SVd952g/godrejgoodknightnaturalneemagarbatti.jpg",
-        "original_cost": 180,
-        "average_rating": 4.6,
-        "discount_cost": 153,
-        "discount": "15% OFF"
-    },
-    {
-        "care_id": 265,
+        "care_id": 261,
         "products_id": 7,
         "name": "Mamaearth After Bite Lavander And Witchhazel Anti Mosquito Roll-On Tube Of 40 Ml",
         "image": "https://i.ibb.co/njx3gR9/mamaearthafterbitelavander.jpg",
@@ -2707,7 +2687,7 @@
         "discount": "15% OFF"
     },
     {
-        "care_id": 266,
+        "care_id": 262,
         "products_id": 7,
         "name": "Mamaearth Anti Mosquito Roll-On Bottle Of 8 Ml",
         "image": "https://i.ibb.co/Csdz4xQ/mamaearthantimosquitorollone.jpg",
@@ -2717,7 +2697,7 @@
         "discount": "6% OFF"
     },
     {
-        "care_id": 267,
+        "care_id": 263,
         "products_id": 7,
         "name": "B D Alcohol Swabs Box Of 100'S",
         "image": "https://i.ibb.co/r0L6yZj/BDalcoholswabsbox-of-100-s.jpg",
@@ -2727,7 +2707,7 @@
         "discount": "22% OFF"
     },
     {
-        "care_id": 268,
+        "care_id": 264,
         "products_id": 7,
         "name": "Cofsils Experdine Gargle 100Ml",
         "image": "https://i.ibb.co/xSgnWQc/cofsilsexperdinegargle100ml.jpg",
@@ -2737,7 +2717,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 269,
+        "care_id": 265,
         "products_id": 7,
         "name": "Dettol Antiseptic Liquid Bottle Of 550Ml",
         "image": "https://i.ibb.co/GnjnsHX/dettolantisepticliquid550ml.jpg",
@@ -2745,7 +2725,7 @@
         "discount_cost": 194
     },
     {
-        "care_id": 270,
+        "care_id": 266,
         "products_id": 7,
         "name": "Dettol Liquid Disinfectant Sanitizer Spray Bottle - Spring Blossom ",
         "image": "https://i.ibb.co/ChX5Zg5/dettoldisinfectantsanitizerbottle.jpg",
@@ -2755,7 +2735,7 @@
         "discount": "19% OFF"
     },
     {
-        "care_id": 271,
+        "care_id": 267,
         "products_id": 7,
         "name": "Dettol Disinfection Kit (Clinical Strength Sanitizer, Disinfectant Wipes & Disinfection Spray",
         "image": "https://i.ibb.co/SNdQhvV/dettoldisinfectionkit.jpg",
@@ -2765,7 +2745,7 @@
         "discount": "17% OFF"
     },
     {
-        "care_id": 272,
+        "care_id": 268,
         "products_id": 7,
         "name": "Dettol Liquid Disinfectant For Floor Cleaner, Surface Disinfection Personal Hygiene Lime Fresh 500Ml",
         "image": "https://i.ibb.co/nbdyH6j/dettolliquiddisinfectant.jpg",
@@ -2775,7 +2755,7 @@
         "discount": "14% OFF"
     },
     {
-        "care_id": 273,
+        "care_id": 269,
         "products_id": 7,
         "name": "Lizol Citrus Disinfectant Floor Cleaner Liquid Bottle of 975Ml",
         "image": "https://i.ibb.co/T1GFt5F/lizolcitrusdisinfectantfloorcleanerliquid.jpg",
@@ -2785,7 +2765,7 @@
         "discount": "4% OFF"
     },
     {
-        "care_id": 274,
+        "care_id": 270,
         "products_id": 7,
         "name": "Lupisafe Disinfectant Spray - 170g",
         "image": "https://i.ibb.co/GxhTTPw/lupisafedisinfectantspray.jpg",
@@ -2795,7 +2775,7 @@
         "discount": "15% OFF"
     },
     {
-        "care_id": 275,
+        "care_id": 271,
         "products_id": 8,
         "name": "Beardo Beard Shaping & Styling Tool Comb",
         "image": "https://i.ibb.co/jbhgKD1/beardobeardshaping-stylingcomb.jpg",
@@ -2805,7 +2785,7 @@
         "discount": "15% OFF"
     },
     {
-        "care_id": 276,
+        "care_id": 272,
         "products_id": 8,
         "name": "Captain Zack Vet Care - Tazsoothe Itch Relief Biphasic Oil For Dogs, 50 Ml",
         "image": "https://i.ibb.co/Hz5VqpK/captainzackvetcareitchrelief.jpg",
@@ -2813,7 +2793,7 @@
         "discount_cost": 299
     },
     {
-        "care_id": 277,
+        "care_id": 273,
         "products_id": 8,
         "name": "Ikonic Black Blaze",
         "image": "https://i.ibb.co/3RysvDg/ikonicblackblaze.jpg",
@@ -2823,7 +2803,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 278,
+        "care_id": 274,
         "products_id": 8,
         "name": "Ikonic Professional Curl Me Up Hair Curler",
         "image": "https://i.ibb.co/jzF0WDK/ikonichaircurler.jpg",
@@ -2833,7 +2813,7 @@
         "discount": "16% OFF"
     },
     {
-        "care_id": 279,
+        "care_id": 275,
         "products_id": 8,
         "name": "Set Wet Hair Gel For Men, Vertical Hold, Strong Hold, Tube, 100 Ml",
         "image": "https://i.ibb.co/GdcM19q/setwethairgelformen.jpg",
@@ -2843,7 +2823,7 @@
         "discount": "25% OFF"
     },
     {
-        "care_id": 280,
+        "care_id": 276,
         "products_id": 8,
         "name": "Ustraa Beard Growth Supplement - 60 Ml",
         "image": "https://i.ibb.co/g49XJLG/ustraabeardgrowthsupplement.jpg",
@@ -2853,7 +2833,7 @@
         "discount": "25% OFF"
     },
     {
-        "care_id": 281,
+        "care_id": 277,
         "products_id": 8,
         "name": "Vega Insta Wave Foldable Hair Dryer (Vhdh-22) White",
         "image": "https://i.ibb.co/yhhmzZ0/vegainstawavefoldablehairdryer.jpg",
@@ -2861,7 +2841,7 @@
         "discount_cost": 1499
     },
     {
-        "care_id": 282,
+        "care_id": 278,
         "name": "Vega Men T1 Beard Trimmer For Men (Vhth-18)",
         "image": "https://i.ibb.co/Q9rwWyQ/vegament1beardtrimmer.jpg",
         "original_cost": 999,
@@ -2870,7 +2850,7 @@
         "discount": "19% OFF"
     },
     {
-        "care_id": 283,
+        "care_id": 279,
         "products_id": 8,
         "name": "Vega T-Style Beard Trimmer (Black)",
         "image": "https://i.ibb.co/wWjBLVy/vegatstylebeardtrimer.jpg",
@@ -2878,7 +2858,7 @@
         "discount_cost": 1099
     },
     {
-        "care_id": 284,
+        "care_id": 280,
         "products_id": 8,
         "name": "Ezee Bio-Degradable Garbage Bags (30 X 37 Inches) Packet Of 10 Extra Large",
         "image": "https://i.ibb.co/j32fQNB/ezeebiodegradablegarbagebags.jpg",
@@ -2888,7 +2868,7 @@
         "discount": "40% OFF"
     },
     {
-        "care_id": 285,
+        "care_id": 281,
         "products_id": 8,
         "name": "I Pill Tab",
         "image": "https://i.ibb.co/VLtHHWx/ipilltablet.jpg",
@@ -2898,7 +2878,7 @@
         "discount": "10% OFF"
     },
     {
-        "care_id": 286,
+        "care_id": 282,
         "products_id": 8,
         "name": "Keepsafe Intimate Wash For Women Bottle Of 100 Ml",
         "image": "https://i.ibb.co/xhFhnQ7/keepsafeintimatewashforwomen.jpg",
@@ -2908,7 +2888,7 @@
         "discount": "6% OFF"
     },
     {
-        "care_id": 287,
+        "care_id": 283,
         "products_id": 8,
         "name": "Keya Seth Medicure, Ankush V Ointment Disinfection & Moisturizer For Intimate Area - 50ml",
         "image": "https://i.ibb.co/5ML7wkM/keyasethmedicureankushvointment.jpg",
@@ -2916,7 +2896,7 @@
         "discount_cost": 250
     },
     {
-        "care_id": 288,
+        "care_id": 284,
         "products_id": 8,
         "name": "Liveasy Wellness Joint Support - Maintains Joints Mobility - Bone & Joint Health - Bottle Of 60",
         "image": "https://i.ibb.co/vZcJWjk/liveasywellnessjointsupport.jpg",
@@ -2926,7 +2906,7 @@
         "discount": "50% OFF"
     },
     {
-        "care_id": 289,
+        "care_id": 285,
         "products_id": 8,
         "name": "Mamaxpert Intimate Wash - 100 Ml",
         "image": "https://i.ibb.co/7zWGMbz/mamaxpertstretchmarkcream.jpg",
@@ -2936,7 +2916,7 @@
         "discount": "25% OFF"
     },
     {
-        "care_id":290,
+        "care_id":286,
         "products_id": 8,
         "name": "Sanfe Sensual Intimate Massage Gel - 50 Ml",
         "image": "https://i.ibb.co/DM1xjFW/sanfenaturalintimatewash.jpg",
@@ -2946,7 +2926,7 @@
         "discount": "27% OFF"
     },
     {
-        "care_id": 291,
+        "care_id": 287,
         "products_id": 8,
         "name": "Sirona Adult Diaper Disposal Bag For Discreet, Tamper Proof Disposal Of Diapers - Pack Of 30",
         "image": "https://i.ibb.co/DChyzQ3/sironaadultdiaperdisposalbag.jpg",
@@ -2956,7 +2936,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 292,
+        "care_id": 288,
         "products_id": 8,
         "name": "V Health Intimate Wash - 100 Ml",
         "image": "https://i.ibb.co/ZhrbzJF/vhealthintimatewash.jpg",
@@ -2964,7 +2944,7 @@
         "discount_cost": 180
     },
     {
-        "care_id": 293,
+        "care_id": 289,
         "products_id": 8,
         "name": "Carbamide Forte Vitamin E 600mg For Face,Hair,100% Natural Vitamin E-60 Capsules",
         "image": "https://i.ibb.co/YpcBBff/carbamidefortevitamine.jpg",
@@ -2974,7 +2954,7 @@
         "discount": "26% OFF"
     },
     {
-        "care_id": 294,
+        "care_id": 290,
         "products_id": 8,
         "name": "Ferradol Food Supplement - 450g",
         "image": "https://i.ibb.co/TL19HVV/ferradolfoodsupplement.jpg",
@@ -2984,7 +2964,7 @@
         "discount": "15% OFF"
     },
     {
-        "care_id": 295,
+        "care_id": 291,
         "products_id": 8,
         "name": "Healthvit Calvitan-Kid Kids Calcium With Vitamin D For Strong Bone Health | Immunity | Healthy Growth 60 Tablets",
         "image": "https://i.ibb.co/g3fSJBn/healthvitcalvitankid.jpg",
@@ -2994,7 +2974,7 @@
         "discount": "22% OFF"
     },
     {
-        "care_id": 296,
+        "care_id": 292,
         "products_id": 8,
         "name": "Healthvit Vitamin B1 Thia-Min 100mg Multivitamin Tablets Bottle Of 60",
         "image": "https://i.ibb.co/tLj1xyk/healthvitvitaminb1.jpg",
@@ -3004,7 +2984,7 @@
         "discount": "50% OFF"
     },
     {
-        "care_id": 297,
+        "care_id": 293,
         "products_id": 8,
         "name": "Liveasy Wellness Calcium, Magnesium, Vitamin D3 & Zinc - Bones & Dental Health - Bottle 60 Tabs",
         "image": "https://i.ibb.co/d4Jm3RX/liveasycalciummagnesiumzinc.jpg",
@@ -3014,7 +2994,7 @@
         "discount": "45% OFF"
     },
     {
-        "care_id": 298,
+        "care_id": 294,
         "products_id": 8,
         "name": "Liveasy Ortho Care Lumbar Sacro Support Belt - Medium",
         "image": "https://i.ibb.co/6ZWG2qG/liveasyorthocarelumbarsacrosupport.jpg",
@@ -3024,7 +3004,7 @@
         "discount": "15% OFF"
     },
     {
-        "care_id": 299,
+        "care_id": 295,
         "products_id": 8,
         "name": "Manforce Wild Chocolate Box Of 10 Condoms",
         "image": "https://i.ibb.co/fCHLyYV/manforcewildchocolateboxof10condoms.jpg",
@@ -3034,7 +3014,7 @@
         "discount": "30% OFF"
     },
     {
-        "care_id": 300,
+        "care_id": 296,
         "products_id": 8,
         "name": "Osteocare Suspension-Calcium, Magnesium, Zinc & Vitamin D3 Suspension",
         "image": "https://i.ibb.co/GMKwn3w/osteocaresuspensioncalciummagnesium.jpg",
@@ -3044,7 +3024,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 301,
+        "care_id": 297,
         "products_id": 8,
         "name": "Patanjali Nutrela Daily Active 22.5g-Multivitamins For Heart,Eye,Bone & Brain Health-1 Bottle-30cap",
         "image": "https://i.ibb.co/Kh1hw6j/patanjalinutreladailyactive.jpg",
@@ -3054,7 +3034,7 @@
         "discount": "28% OFF"
     },
     {
-        "care_id": 302,
+        "care_id": 298,
         "products_id": 8,
         "name": "Dabur Amla Hair Oil Bottle Of 275 Ml",
         "image": "https://i.ibb.co/GCFkynn/daburamlahairoil.jpg",
@@ -3064,7 +3044,7 @@
         "discount": "15% OFF"
     },
     {
-        "care_id": 303,
+        "care_id": 299,
         "products_id": 8,
         "name": "Emami 7 Oils In One Hair Oil Bottle Of 200 Ml",
         "image": "https://i.ibb.co/2sMTZYf/emamihairoil.jpg",
@@ -3074,7 +3054,7 @@
         "discount": "10% OFF"
     },
     {
-        "care_id": 304,
+        "care_id": 300,
         "products_id": 8,
         "name": "Himalaya Anti Dandruff Shampoo - 400ml",
         "image": "https://i.ibb.co/qs9bc4L/himalayaantidandruff.jpg",
@@ -3084,7 +3064,7 @@
         "discount": "24% OFF"
     },
     {
-        "care_id": 305,
+        "care_id": 301,
         "products_id": 8,
         "name": "Himalaya Anti Hair Fall Hair Oil - 200ml",
         "image": "https://i.ibb.co/74rc0dm/himalayaantihairfallhairoil.jpg",
@@ -3094,7 +3074,7 @@
         "discount": "22% OFF"
     },
     {
-        "care_id": 306,
+        "care_id": 302,
         "products_id": 8,
         "name": "Indulekha Bringha Hair Oil Bottle Of 100 Ml",
         "image": "https://i.ibb.co/1v4D75y/indulekhabringhahairoilbottle.jpg",
@@ -3104,7 +3084,7 @@
         "discount": "5% OFF"
     },
     {
-        "care_id": 307,
+        "care_id": 303,
         "products_id": 8,
         "name": "Navratna Ayurvedic Cool Hair Oil Bottle Of 200 Ml",
         "image": "https://i.ibb.co/Nn0bVw8/navratnaayurvediccoolhairoil.jpg",
@@ -3114,7 +3094,7 @@
         "discount": "20% OFF"
     },
     {
-        "care_id": 308,
+        "care_id": 304,
         "products_id": 8,
         "name": "Parachute 100 % Pure Coconut Oil, 1 L (Pet Jar)",
         "image": "https://i.ibb.co/Xjj2vrZ/parachutecoconutoil1litre.jpg",
@@ -3122,7 +3102,7 @@
         "discount_cost": 361
     },
     {
-        "care_id": 309,
+        "care_id": 305,
         "products_id": 8,
         "name": "Sesa Oil 100ml",
         "image": "https://i.ibb.co/vXDSQmk/sesahairoil.jpg",
@@ -3130,7 +3110,7 @@
         "discount_cost": 135
     },
     {
-        "care_id": 310,
+        "care_id": 306,
         "products_id": 8,
         "name": "Tresemme Keratin Smooth Shampoo - 185 Ml",
         "image": "https://i.ibb.co/v4YGLgF/tresemmekeratinsmoothshampooo.jpg",
@@ -3140,7 +3120,7 @@
         "discount": "4% OFF"
     },
     {
-        "sort_id": 311,
+        "sort_id": 307,
         "products_id": 8,
         "name": "Anchor All Round Protection Toothpaste 150gm X 3",
         "image": "https://i.ibb.co/7pWS8q3/anchortoothpaste.jpg",
@@ -3148,7 +3128,7 @@
         "discount_cost": 106
     },
     {
-        "care_id": 312,
+        "care_id": 308,
         "products_id": 8,
         "name": "Colgate Strong Teeth Dental Cream Tooth Paste 44 Gm",
         "image": "https://i.ibb.co/0hZdZvp/colgatestrondteethtoothpaste.jpg",
@@ -3158,7 +3138,7 @@
         "discount": "4% OFF"
     },
     {
-        "care_id": 313,
+        "care_id": 309,
         "products_id": 8,
         "name": "Colgate Zigzag Antibacterial Toothbrush - Medium (Pack Of 3)",
         "image": "https://i.ibb.co/r40fvGm/colgatezigzagtoothbrush.jpg",
@@ -3168,7 +3148,7 @@
         "discount": "42% OFF"
     },
     {
-        "care_id": 314,
+        "care_id": 310,
         "products_id": 8,
         "name": "Dabur Red Paste 200gm",
         "image": "https://i.ibb.co/f1FjBXW/daburredpaste.jpg",
@@ -3176,7 +3156,7 @@
         "discount_cost": 102
     },
     {
-        "care_id": 315,
+        "care_id": 311,
         "products_id": 8,
         "name": "Listerine Coolmint Mouthwash Bottle Of 250 Ml",
         "image": "https://i.ibb.co/XpgnmFh/listerinemouthwashcoolmint.jpg",
@@ -3186,7 +3166,7 @@
         "discount": "5% OFF"
     },
     {
-        "care_id": 316,
+        "care_id": 312,
         "products_id": 8,
         "name": "Sensodent K Paste 100gm",
         "image": "https://i.ibb.co/4fnkhQd/sensodentkfgel.jpg",
@@ -3196,7 +3176,7 @@
         "discount": "29% OFF"
     },
     {
-        "care_id": 317,
+        "care_id": 313,
         "products_id": 8,
         "name": "Sensodyne Sensitive Repair & Protect Toothpaste Tube Of 70 G",
         "image": "https://i.ibb.co/0sYcQ4t/sensodynesensitiverepairtoothpaste.jpg",
@@ -3206,7 +3186,7 @@
         "discount": "7% OFF"
     },
     {
-        "care_id": 318,
+        "care_id": 314,
         "products_id": 8,
         "name": "Sensodyne Sensitivity & Gum Toothbrush With Soft Bristles (Buy 2, Get 1 Free)",
         "image": "https://i.ibb.co/yhRCGCY/sensodynetoothbrush.jpg",
@@ -3214,7 +3194,7 @@
         "discount_cost": 200
     },
     {
-        "care_id": 319,
+        "care_id": 315,
         "products_id": 8,
         "name": "Sensoform Paste 100gm",
         "image": "https://i.ibb.co/1mWmkhR/sensoformpaste100gm.jpg",

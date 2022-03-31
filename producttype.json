@@ -15,36 +15,36 @@
         "products_id": 3,
         "products_name": "Nutrition Drinks",
         "image":"https://i.ibb.co/sw5j63d/fitness-0.jpg",
-        "type_id":3        
+        "type_id":2        
     },
     {
         "products_id": 4,
         "products_name": "Ayurvedic Care",
         "image":"https://i.ibb.co/NZBcLfQ/ayush-0.jpgg",
-        "type_id":4        
+        "type_id":2       
     },
     {
         "products_id": 5,
         "products_name": "Covid Essentials",
         "image":"https://i.ibb.co/2hYt7gj/covid-essentials-0.jpg",
-        "type_id":5    
+        "type_id":2    
     },
     {
         "products_id": 6,
         "products_name": "Sexual Wellness",
         "image":"",
-        "type_id":6       
+        "type_id":2       
     },
     {
         "products_id": 7,
         "products_name": "Home Care",
         "image":"",
-        "type_id":7        
+        "type_id":2        
     },
     {
         "products_id": 8,
         "products_name": "Personal Care",
         "image":"https://i.ibb.co/pvN3MvR/body-care-200.jpg",
-        "type_id":8       
+        "type_id":2       
     }
 ]

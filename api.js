@@ -49,7 +49,7 @@ app.get('/category',(req,res) => {
 
 //filter
 app.get('/filter/:sortId', (req,res) => {
-    let sort = {cosst:1}
+    let sort = {cost:1}
     let sortId = Number(req.params.sortId)
     let skip = 0;
     let limit = 10000000000;

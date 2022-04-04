@@ -2745,7 +2745,7 @@
     },
     {
         "_id": 144,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Aptamil Stage 1 Infant Formula Baby Food Tin of 400g",
         "image": "https://i.ibb.co/C9dmwBM/aptamilstage1infantformulababyfood.jpg",
@@ -2760,7 +2760,7 @@
     },
     {
         "_id": 145,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Dexolac Baby Food Stage 1 Infant Formula (Upto 6 Months) Box of 400g",
         "image": "https://i.ibb.co/qr4HQVF/dexolacbabyfoodstage1infantformula.jpg",
@@ -2775,7 +2775,7 @@
     },
     {
         "_id": 146,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Fabrex Baby Food Stage 2 Followup Formula Refill of 400g",
         "image": "https://i.ibb.co/cc5K4wk/farexbabyfoodstage2.jpg",
@@ -2790,7 +2790,7 @@
     },
     {
         "_id": 147,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Lactodex - Hmf Nutritional Supplement Sachet of 1g",
         "image": "https://i.ibb.co/hcvTKXX/lactodexhmfnutritional.jpg",
@@ -2805,7 +2805,7 @@
     },
     {
         "_id": 148,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Nestle Lactogen 1 Infant Formula Powder - Upto 6 Months",
         "image": "https://i.ibb.co/dL0xjFL/nestlelactogen1infantformulapowder.jpg",
@@ -2820,7 +2820,7 @@
     },
     {
         "_id": 149,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Nestle Nan Pro 1 Starter Infant Formula Powder - 400G",
         "image": "https://i.ibb.co/5hMr4Rx/nestlenanpro1starterinfantformulapowder.jpg",
@@ -2835,7 +2835,7 @@
     },
     {
         "_id": 150,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Nestle Nan Pro 3 Follow Up Formula Powder 400G",
         "image": "https://i.ibb.co/hsLDs03/nestlenanpro3followupformulapowder.jpg",
@@ -2850,7 +2850,7 @@
     },
     {
         "_id": 151,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Similac Baby Food Stage 3 Followup Infant Formula (from 12-24 months) Box of 400G",
         "image": "https://i.ibb.co/1GBKwXz/similacbabyfoodstage2followupinfantformula.jpg",
@@ -2865,7 +2865,7 @@
     },
     {
         "_id": 152,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Similac Isomil Soy Baby Food Lactose Free(Upto 24 Months) Tin of 400g",
         "image": "https://i.ibb.co/wRWmZpY/similacisomilsoybabyfoodlactosefree.jpg",
@@ -2880,7 +2880,7 @@
     },
     {
         "_id": 153,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Liveasy Foods Chia Seeds",
         "image": "https://i.ibb.co/yfC2Wfz/liveasyfoodschiaseeds.jpg",
@@ -2897,7 +2897,7 @@
     },
     {
         "_id": 154,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Liveasy Wellness Zero Calorie Sugar Substitute (Sugar Free) Tablets",
         "image": "https://i.ibb.co/Ykx177b/liveasywellnesszerocaloriesugarsubstitute.jpg",
@@ -2914,7 +2914,7 @@
     },
     {
         "_id": 155,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Sugar Free Gold Sweetner Tablets Strip of 500",
         "image": "https://i.ibb.co/tpHh3Jm/sugarfreegoldsweetnertablets.jpg",
@@ -2931,7 +2931,7 @@
     },
     {
         "_id": 156,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Sugar Free Green Made From Stevia 100% Natural 200gm Jar",
         "image": "https://i.ibb.co/4jHPnT9/sugarfreegreenmadefromstevia.jpg",
@@ -2948,7 +2948,7 @@
     },
     {
         "_id": 157,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Sugar Free Natura Sweetner Tablets Bottle of 500",
         "image": "https://i.ibb.co/S7drLtV/sugarfreenaturasweetnertablets.jpg",
@@ -2965,7 +2965,7 @@
     },
     {
         "_id": 158,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Sugarlite 50% Less Calories Sugar Pouch 500gm",
         "image": "https://i.ibb.co/Km1T7QV/sugarlitesweetnetpowder.jpg",
@@ -2982,7 +2982,7 @@
     },
     {
         "_id": 159,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Zindagi Instant Green Coffee Powder Sachets",
         "image": "https://i.ibb.co/bgjtZbK/zindagiinstantgreencoffeepowder.jpg",
@@ -2999,7 +2999,7 @@
     },
     {
         "_id": 160,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Zindagi Stevia Liquid Drops - Natural Sweetner Stevia Sugarfree",
         "image": "https://i.ibb.co/P6v58Rw/zindagistevialiquiddrops.jpg",
@@ -3016,7 +3016,7 @@
     },
     {
         "_id": 161,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Zindagi Stevia Sachets Sugarfree - Natural Vegan Friendly Sweetner 50 Sachets",
         "image": "https://i.ibb.co/4KsFCkZ/zindagisteviasachetssugarfree.jpg",
@@ -3033,7 +3033,7 @@
     },
     {
         "_id": 162,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Dabur Honey Squeezy - 400g (Buy 1 Get 1 Free)",
         "image": "https://i.ibb.co/x6SvzMJ/daburhoneysqueezy.jpg",
@@ -3050,7 +3050,7 @@
     },
     {
         "_id": 163,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Liveasy Foods Healthy Roasted Seed Mix - Blend Of 6 Fibre Rich Healthy Roasted Seeds",
         "image": "https://i.ibb.co/y5CRtdM/liveasyfoodshealthyseedmix.jpg",
@@ -3067,7 +3067,7 @@
     },
     {
         "_id": 164,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Liveasy Foods Roasted Peri Peri Makhana - Rich in Protein & Fibre",
         "image": "https://i.ibb.co/Lx4bC7P/liveasyfoodsroastedperiperimakhana.jpg",
@@ -3084,7 +3084,7 @@
     },
     {
         "_id": 165,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Pediasure Cookies Cream Child Nutrition Drink Refill of 400g",
         "image": "https://i.ibb.co/jMVYCNk/pediasure7-chocolaterefill.jpg",
@@ -3101,7 +3101,7 @@
     },
     {
         "_id": 166,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Ritebite Max Protein Ultimate Choco Berry Protein Bars 600g",
         "image": "https://i.ibb.co/FJtSHMz/ritebitemaxproteinultimatechoco.jpg",
@@ -3118,7 +3118,7 @@
     },
     {
         "_id": 167,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Saffola Honey 100% Pure 500gm",
         "image": "https://i.ibb.co/D564r8d/saffolahoneyppure.jpg",
@@ -3135,7 +3135,7 @@
     },
     {
         "_id": 168,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Threptin Chocolate Nutrition Diskettes Tin of 275g",
         "image": "https://i.ibb.co/kMjRqqC/threptinchocolatenutritiondiskettes.jpg",
@@ -3152,7 +3152,7 @@
     },
     {
         "_id": 169,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Threptin Lite Vanilla Butterscotch Nutrition Diskettes Tin of 275g",
         "image": "https://i.ibb.co/pyJtMPg/threptinlitevanilabutterscotch.jpg",
@@ -3169,7 +3169,7 @@
     },
     {
         "_id": 170,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Zandu Pure Honey Health Food Bottle Of 500g",
         "image": "https://i.ibb.co/8zz47HZ/zandupurehoneyhealthfoodbottle.jpg",
@@ -3186,7 +3186,7 @@
     },
     {
         "_id": 171,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "B-Protin Chocolate Nutrition Supplement Bottle of 500g",
         "image": "https://i.ibb.co/S3XKJss/bprotinchocolatesupplement.jpg",
@@ -3203,7 +3203,7 @@
     },
     {
         "_id": 172,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Cadbury Bournvita Nutrition Drink Jar of 500g",
         "image": "https://i.ibb.co/F8Q4kH2/cadburybournvitadrink.jpg",
@@ -3220,7 +3220,7 @@
     },
     {
         "_id": 173,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Cadbury Bournvita Lil Champs Nutrition Drink Jar of 500g",
         "image": "https://i.ibb.co/4VXkts4/cadburybournvitalilchamps.jpg",
@@ -3237,7 +3237,7 @@
     },
     {
         "_id": 174,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Ensure Chocolate Nutrition Drink Refill Of 400g",
         "image": "https://i.ibb.co/QfrTLks/ensurechocolatedrink.jpg",
@@ -3254,7 +3254,7 @@
     },
     {
         "_id": 175,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Ensure Vanilla Nutrition Drink Refill Of 400g",
         "image": "https://i.ibb.co/w6s5Vzb/ensurevanilanutritiondrink.jpg",
@@ -3271,7 +3271,7 @@
     },
     {
         "_id": 176,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "_name": "Everherb Amla Juice-Rich In Vitamin C-Natural Immunity Booster",
         "image": "https://i.ibb.co/cwCX9sD/everherbamlajuicerichinvitaminc.jpg",
@@ -3288,7 +3288,7 @@
     },
     {
         "_id": 177,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Groviva Chocolate Child Nutrition Supplement Jar of 400g",
         "image": "https://i.ibb.co/PmYNLVR/grovivachocolatechildnutritionsupplement.jpg",
@@ -3305,7 +3305,7 @@
     },
     {
         "_id": 178,
-        "type_id": 2,
+        "type_id": 3,
         "products_id": 3,
         "name": "Horlicks Women's Plus Caramel Jar, 400g",
         "image": "https://i.ibb.co/KKHFmn0/horlickswomenplus.jpg",
@@ -3322,7 +3322,7 @@
     },
     {
         "_id": 179,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Calcimax 500 Health Supplement Tablets (500 Mg Of Calcium)Box Of 30",
         "image": "https://i.ibb.co/wp0WdxK/calcimax500healthsupplementtablets.jpg",
@@ -3339,7 +3339,7 @@
     },
     {
         "_id": 180,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Evion Lc Strip Of 10 Tablets",
         "image": "https://i.ibb.co/Ht83XZ9/evionlcstripof10tablets.jpg",
@@ -3354,7 +3354,7 @@
     },
     {
         "_id": 181,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Himalaya Liv.52 Ds Tablets - 60'S",
         "image": "https://i.ibb.co/N1DfW63/himalayaliv52tablets.jpg",
@@ -3371,7 +3371,7 @@
     },
     {
         "_id": 182,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Himalaya Septilin Tablets - 60'S",
         "image": "https://i.ibb.co/YRQk9P4/himalayaseptilintablets.jpg",
@@ -3388,7 +3388,7 @@
     },
     {
         "_id": 183,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Liveasy Wellness Calcium, Magnesium, Vitamin D3 & Zinc - Bones & Dental Health",
         "image": "https://i.ibb.co/T8bCF89/liveasywellnesscalciummagesium.jpg",
@@ -3405,7 +3405,7 @@
     },
     {
         "_id": 184,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Omnigel Gel 75gm",
         "image": "https://i.ibb.co/7g5r7bD/omnigelgel75gm.jpg",
@@ -3422,7 +3422,7 @@
     },
     {
         "_id": 185,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Volini Pain Relief Gel - 30gm",
         "image": "https://i.ibb.co/V970mwB/volinipainreliefgeltubeof75g.jpg",
@@ -3439,7 +3439,7 @@
     },
     {
         "_id": 186,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "_name": "Volin Pain Relief Gel Tube Of 75G",
         "image": "https://i.ibb.co/Gt3KHrJ/volinipainreliefspray.jpg",
@@ -3456,7 +3456,7 @@
     },
     {
         "_id": 187,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Zandu Ultra Power Balm 8Ml",
         "image": "https://i.ibb.co/5k8kkvN/zanduultrapowerbalm.jpg",
@@ -3473,7 +3473,7 @@
     },
     {
         "_id": 188,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Allen A11 Eczema Drops 30 Ml",
         "image": "https://i.ibb.co/PZPGVL8/allena11eczemadrops.jpg",
@@ -3490,7 +3490,7 @@
     },
     {
         "_id": 189,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Allen A37 Renal Calculi Drops 30ml",
         "image": "https://i.ibb.co/8N82P2D/allena37renalcalculidrops.jpg",
@@ -3507,7 +3507,7 @@
     },
     {
         "_id": 190,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "_name": "Allen A39 Anti Obesity Drops 30ml",
         "image": "https://i.ibb.co/Hp8PHys/allena39antiobesitydrops.jpg",
@@ -3524,7 +3524,7 @@
     },
     {
         "_id": 191,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Allen A46 ",
         "image": "https://i.ibb.co/7SL3RnZ/allena46antidandruffdrops.jpg",
@@ -3541,7 +3541,7 @@
     },
     {
         "_id": 192,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Allen A86 Protenuria Drops 30ml",
         "image": "https://i.ibb.co/Jpy0N5n/allena86proteinuriadrops.jpg",
@@ -3558,7 +3558,7 @@
     },
     {
         "_id": 193,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Allen Arsenicum Album 30ml",
         "image": "https://i.ibb.co/nwXzbc3/allenarsenicumalbum.jpg",
@@ -3575,7 +3575,7 @@
     },
     {
         "_id": 194,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Baksons Acne Aid Tablet 75",
         "image": "https://i.ibb.co/MD69TjB/baksonsacneaidtablet.jpg",
@@ -3592,7 +3592,7 @@
     },
     {
         "_id": 195,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Wheezal Wl 46 Drops 30ml",
         "image": "https://i.ibb.co/RQ1rTSp/wheezalwl11drops.jpg",
@@ -3609,7 +3609,7 @@
     },
     {
         "_id": 196,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Baksons B23 Skin Drops 30ml",
         "image": "https://i.ibb.co/L9yNpPT/baksonsb23skindrops.jpg",
@@ -3626,7 +3626,7 @@
     },
     {
         "_id": 197,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Charak Neo Tablets",
         "image": "https://i.ibb.co/V2qPdsf/charakneotablets.jpg",
@@ -3643,7 +3643,7 @@
     },
     {
         "_id": 198,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Everherb Shilajit 500mg - Natural Vigour Improvement",
         "image": "https://i.ibb.co/WvjL49M/everherbshilajit.jpg",
@@ -3660,7 +3660,7 @@
     },
     {
         "_id": 199,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Himalaya Confido Tablets 60'S",
         "image": "https://i.ibb.co/9tGcgtd/himalayaconfidotablets.jpg",
@@ -3677,7 +3677,7 @@
     },
     {
         "_id": 200,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Himalaya Gokshura Tablets 60'S",
         "image": "https://i.ibb.co/pjwV4sj/himalayagokshuratablets.jpg",
@@ -3694,7 +3694,7 @@
     },
     {
         "_id": 201,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Himalaya Himcolin Gel - 30g",
         "image": "https://i.ibb.co/Kz4dFLq/himalayahimcolingel.jpg",
@@ -3711,7 +3711,7 @@
     },
     {
         "_id": 202,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Himalaya Himplasia Tablets - 30'S",
         "image": "https://i.ibb.co/GHS8LXy/himalayahimplasiatablets.jpg",
@@ -3728,7 +3728,7 @@
     },
     {
         "_id": 203,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Himalaya Tentex Forte Tablets",
         "image": "https://i.ibb.co/mGttD0y/himalayatentexfortetablets.jpg",
@@ -3745,7 +3745,7 @@
     },
     {
         "_id": 204,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Himalaya Wellness Pure Herbs Kapikachhu Sexual Wellness Tablets Bottle of 60",
         "image": "https://i.ibb.co/xLpJK8k/himalayawellnesspureherbskapikachhu.jpg",
@@ -3762,7 +3762,7 @@
     },
     {
         "_id": 205,
-        "type_id": 2,
+        "type_id": 4,
         "products_id": 4,
         "name": "Kapiva Himalayan Shilajit Resin - 20g",
         "image": "https://i.ibb.co/NrNbW52/kapivahimalayanshilajitresin.jpg",
@@ -3779,7 +3779,7 @@
     },
     {
         "_id": 206,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Covifind Covid-19 Rapid Antigen Self Test By Meril",
         "image": "https://i.ibb.co/ZMW2v9Q/covifind-covid-19-rapid-antigen.jpg",
@@ -3796,7 +3796,7 @@
     },
     {
         "_id": 207,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Panbio Covid Antigen Self Test",
         "image": "https://i.ibb.co/Twbc1Mq/panbio-covid-antigen-self-test-1-test-kit.jpg",
@@ -3813,7 +3813,7 @@
     },
     {
         "_id": 208,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Coviself Covid Self Test Kit",
         "image": "https://i.ibb.co/2h49tWn/coviselfcovidselftestkit.jpg",
@@ -3830,7 +3830,7 @@
     },
     {
         "_id": 209,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Panbio Covid Antigen Self Test 1 Test Kits ICMR Approved",
         "image": "https://i.ibb.co/F44D2Lb/panbio4testkits.jpg",
@@ -3847,7 +3847,7 @@
     },
     {
         "_id": 210,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "B D Alcohol Swabs Box Of 100'S",
         "image": "https://i.ibb.co/r0L6yZj/BDalcoholswabsbox-of-100-s.jpg",
@@ -3864,7 +3864,7 @@
     },
     {
         "_id": 211,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Cofsils Experdine Gargle 100Ml",
         "image": "https://i.ibb.co/xSgnWQc/cofsilsexperdinegargle100ml.jpg",
@@ -3881,7 +3881,7 @@
     },
     {
         "_id": 212,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Dettol Antiseptic Liquid Bottle Of 550Ml",
         "image": "https://i.ibb.co/GnjnsHX/dettolantisepticliquid550ml.jpg",
@@ -3896,7 +3896,7 @@
     },
     {
         "_id": 213,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Dettol Liquid Disinfectant Sanitizer Spray Bottle - Spring Blossom ",
         "image": "https://i.ibb.co/ChX5Zg5/dettoldisinfectantsanitizerbottle.jpg",
@@ -3913,7 +3913,7 @@
     },
     {
         "_id": 214,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Dettol Disinfection Kit (Clinical Strength Sanitizer, Disinfectant Wipes & Disinfection Spray",
         "image": "https://i.ibb.co/SNdQhvV/dettoldisinfectionkit.jpg",
@@ -3930,7 +3930,7 @@
     },
     {
         "_id": 215,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Dettol Liquid Disinfectant For Floor Cleaner, Surface Disinfection Personal Hygiene Lime Fresh 500Ml",
         "image": "https://i.ibb.co/nbdyH6j/dettolliquiddisinfectant.jpg",
@@ -3947,7 +3947,7 @@
     },
     {
         "_id": 216,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Lizol Citrus Disinfectant Floor Cleaner Liquid Bottle of 975Ml",
         "image": "https://i.ibb.co/T1GFt5F/lizolcitrusdisinfectantfloorcleanerliquid.jpg",
@@ -3964,7 +3964,7 @@
     },
     {
         "_id": 217,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Lupisafe Disinfectant Spray - 170g",
         "image": "https://i.ibb.co/GxhTTPw/lupisafedisinfectantspray.jpg",
@@ -3981,7 +3981,7 @@
     },
     {
         "_id": 218,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "3 Ply Mask Packet Of 50",
         "image": "https://i.ibb.co/xCh0kKY/3plymaskpacketof50.jpg",
@@ -3998,7 +3998,7 @@
     },
     {
         "_id": 219,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Bodyguard N95 + Pm2.5 Ffp2 Anti Pollution Face Mask With 5 Layer Protection - Pack Of 1",
         "image": "https://i.ibb.co/W3Y7Jvm/bodyguardn95.jpg",
@@ -4015,7 +4015,7 @@
     },
     {
         "_id": 220,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Dettol D95 Mask Anti Virus Reusable & Washable (Black Colour)",
         "image": "https://i.ibb.co/87tb7Z4/dettold95maskantivirus.jpg",
@@ -4032,7 +4032,7 @@
     },
     {
         "_id": 221,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Dettol N95 Mask Antivirus Reusable & Washable (Black Large) ",
         "image": "https://i.ibb.co/Hd79gYN/dettoln95maskantivirus.jpg",
@@ -4049,7 +4049,7 @@
     },
     {
         "_id": 222,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Fusion Flo Ff 3065 Mask - Anti Pollution | Anti Dust | Anti Bacterial | Anti Viral",
         "image": "https://i.ibb.co/MBDYXMS/fusionfloff3065mask.jpg",
@@ -4064,7 +4064,7 @@
     },
     {
         "_id": 223,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Tri-Activ N95 Masks With 6 Layer Protection Anti-Virus Coating 99.5% Filtration Efficiency",
         "image": "https://i.ibb.co/z8SFKBp/triactivn95maskswith6layer.jpg",
@@ -4081,7 +4081,7 @@
     },
     {
         "_id": 224,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Wildcraft Supermask W95 Reusable Outdoor Respirator Mask Anti-Dust Anti-Bacterial Anti-Pollution L",
         "image": "https://i.ibb.co/HhBwxNw/wildcraftsupermask2w95.jpg",
@@ -4098,7 +4098,7 @@
     },
     {
         "_id": 225,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "3 Ply Mask Packet Of 100",
         "image": "https://i.ibb.co/gRtz3r5/3plymaskpacketof100.jpg",
@@ -4115,7 +4115,7 @@
     },
     {
         "_id": 226,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Ciphands Hand Sanitizer Bottle Of 100 Ml",
         "image": "https://i.ibb.co/dK2jGhf/ciphandshandsanitizer.jpg",
@@ -4132,7 +4132,7 @@
     },
     {
         "_id": 227,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Ciphands Hand Sanitizer 500 Ml",
         "image": "https://i.ibb.co/52TRj1r/ciphandsprofessional.jpg",
@@ -4149,7 +4149,7 @@
     },
     {
         "_id": 228,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Dettol Hand Sanitizer Liquid Gel Pump | 70% Alcohol, Kills 99.9% Germs- 200ml",
         "image": "https://i.ibb.co/5Rfc21v/dettolhandsanitizer.jpg",
@@ -4166,7 +4166,7 @@
     },
     {
         "_id": 229,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Liveasy Essentials Instant Hand Sanitizer-Kills 99.9% Germs - Gel Based - 200ml",
         "image": "https://i.ibb.co/8gXFNgL/liveasyessentialsinstant.jpg",
@@ -4183,7 +4183,7 @@
     },
     {
         "_id": 230,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Lupisafe Alcohol Based Hand Sanitizer - 100ml",
         "image": "https://i.ibb.co/7kZQwZj/lupisafesanitizer.jpg",
@@ -4200,7 +4200,7 @@
     },
     {
         "_id": 231,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Luxor Nano Pen Sanitizer Spray With Refill Bottle 10 Ml + 20 Ml - Classic",
         "image": "https://i.ibb.co/sK9QyLD/luxornanopensanitizerspray.jpg",
@@ -4217,7 +4217,7 @@
     },
     {
         "_id": 232,
-        "type_id": 2,
+        "type_id": 5,
         "products_id": 5,
         "name": "Samrvir Forest Herbs Hand Sanitizer 500 Ml",
         "image": "https://i.ibb.co/714L8qB/samrvirforestherbs.jpg",
@@ -4234,7 +4234,7 @@
     },
     {
         "_id": 233,
-        "type_id": 2,
+        "type_id": 6,
         "products_id": 6,
         "name": "Durex Condom Air- 10s Pack Of 3",
         "image": "https://i.ibb.co/d6kSmyC/durexairpacketof10condoms.jpg",
@@ -4251,7 +4251,7 @@
     },
     {
         "_id": 234,
-        "type_id": 2,
+        "type_id": 6,
         "products_id": 6,
         "name": "Durex Extra Thin Packet Of 10 Condoms",
         "image": "https://i.ibb.co/f2tVSKS/durexextrathinpacketof10condoms.jpg",
@@ -4268,7 +4268,7 @@
     },
     {
         "_id": 235,
-        "type_id": 2,
+        "type_id": 6,
         "products_id": 6,
         "name": "Durex Extra Time Packet Of 10 Condoms",
         "image": "https://i.ibb.co/zGMgcBP/durexextratimepacketof10condoms.jpg",
@@ -4285,7 +4285,7 @@
     },
     {
         "_id": 236,
-        "type_id": 2,
+        "type_id": 6,
         "products_id": 6,
         "name": "Durex Invisible Super Ultra Thin Condoms For Men - 10s",
         "image": "https://i.ibb.co/crtfZy7/durexinvisibleultrathincondoms.jpg",
@@ -4302,7 +4302,7 @@
     },
     {
         "_id": 237,
-        "type_id": 2,
+        "type_id": 6,
         "products_id": 6,
         "name": "Manforce Wild Chocolate Box Of 10 Condoms",
         "image": "https://i.ibb.co/Twf5JgP/manforcewildchocolateboxof10condoms.jpg",
@@ -4319,7 +4319,7 @@
     },
     {
         "_id": 238,
-        "type_id": 2,
+        "type_id": 6,
         "products_id": 6,
         "name": "Skore Duo Max Premium Condoms - 10'S",
         "image": "https://i.ibb.co/CznpDXm/skoreduomaxpremiumcondoms.jpg",
@@ -4336,7 +4336,7 @@
     },
     {
         "_id": 239,
-        "type_id": 2,
+        "type_id": 6,
         "products_id": 6,
         "name": "I-Pill Daily Oral Contraceptive Pills For 21 Days",
         "image": "https://i.ibb.co/DwNG9xf/ipilldailyoralcontraceptivepills.jpg",
@@ -4353,7 +4353,7 @@
     },
     {
         "_id": 240,
-        "type_id": 2,
+        "type_id": 6,
         "products_id": 6,
         "name": "I Pill Tab",
         "image": "https://i.ibb.co/CK80g4c/ipilltab.jpg",
@@ -4370,7 +4370,7 @@
     },
     {
         "_id": 241,
-        "type_id": 2,
+        "type_id": 6,
         "products_id": 6,
         "name": "Unwanted 72 Strip Of 1 Tablet",
         "image": "https://i.ibb.co/v3c70Ck/unwanted72-tripof1tablet.jpg",
@@ -4387,7 +4387,7 @@
     },
     {
         "_id": 242,
-        "type_id": 2,
+        "type_id": 6,
         "products_id": 6,
         "name": "I Can Pregnancy Test Kit",
         "image": "https://i.ibb.co/gSdnnY7/icanpregnancytestkit.jpg",
@@ -4404,7 +4404,7 @@
     },
     {
         "_id": 243,
-        "type_id": 2,
+        "type_id": 6,
         "products_id": 6,
         "name": "Make Sure Pregnancy Test Kits - Mini",
         "image": "https://i.ibb.co/kq5zXwb/makesurepregnancytestkits.jpg",
@@ -4421,7 +4421,7 @@
     },
     {
         "_id": 244,
-        "type_id": 2,
+        "type_id": 6,
         "products_id": 6,
         "name": "Mamaxpert Pregtest Pregnancy Test Kit",
         "image": "https://i.ibb.co/Th5KmJK/mamaxpertpregtestpregnancytestkit.jpg",
@@ -4438,7 +4438,7 @@
     },
     {
         "_id": 245,
-        "type_id": 2,
+        "type_id": 6,
         "products_id": 6,
         "name": "Prega News Pregnancy Test Kit",
         "image": "https://i.ibb.co/C2NyVNH/preganewspregnancytestkit.jpg",
@@ -4455,7 +4455,7 @@
     },
     {
         "_id": 246,
-        "type_id": 2,
+        "type_id": 6,
         "products_id": 6,
         "name": "Pregline Card Pregnancy Test Kit",
         "image": "https://i.ibb.co/pQby79H/preglinecardpregnancytestkit.jpg",
@@ -4472,7 +4472,7 @@
     },
     {
         "_id": 247,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Emami Emasol Dish Wash Gel- Lemon - 900 Ml",
         "image": "https://i.ibb.co/44tmC9r/emamiemasoldishwashgel.jpg",
@@ -4489,7 +4489,7 @@
     },
     {
         "_id": 248,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Exo Bar 300gm",
         "image": "https://i.ibb.co/3yM7kzZ/exobar300gm.jpg",
@@ -4506,7 +4506,7 @@
     },
     {
         "_id": 249,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Exo Safai Big - Scrubber (Set Of 4)",
         "image": "https://i.ibb.co/7VH2d7v/exosafaibigscrubber.jpg",
@@ -4523,7 +4523,7 @@
     },
     {
         "_id": 250,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Exo Steel Scrubber (Set Of 3)",
         "image": "https://i.ibb.co/6mVPtvZ/exosteelscrubber.jpg",
@@ -4540,7 +4540,7 @@
     },
     {
         "_id": 251,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Exo Super Gel Ginger Dishwash Gel 250 G",
         "image": "https://i.ibb.co/fxtRW04/exosupergelginger.jpg",
@@ -4557,7 +4557,7 @@
     },
     {
         "_id": 252,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Exo Touch & Shine Round Dishwash Bar (700 G)",
         "image": "https://i.ibb.co/G56vLDM/exotouch-shinerounddishwashbar.jpg",
@@ -4574,7 +4574,7 @@
     },
     {
         "_id": 253,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Godrej Protekt Germ Protection Dish Wash Liquid Gel, Removes Grease, Lime Fragnance - 750ml",
         "image": "https://i.ibb.co/L63thG3/godrejprotektgermprotectiondishwash.jpg",
@@ -4591,7 +4591,7 @@
     },
     {
         "_id": 254,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Pril Dishwash Bar Lime Vinegar 400g",
         "image": "https://i.ibb.co/B6w6qgQ/prillime-vinegardishwashbar.jpg",
@@ -4608,7 +4608,7 @@
     },
     {
         "_id": 255,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Bodyguard Natural Mosquito Repellent Cream With Aloe Vera And Neem Extracts - 50gm",
         "image": "https://i.ibb.co/vhG8QVG/bodyguardnaturalmosquitorepellent.jpg",
@@ -4625,7 +4625,7 @@
     },
     {
         "_id": 256,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Buddsbuddy Mosquito Repellent Patches - 12pc",
         "image": "https://i.ibb.co/xSSHtg5/buddsbuddymosquitorepellentpatches.jpg",
@@ -4642,7 +4642,7 @@
     },
     {
         "_id": 257,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Chicco Baby Anti Mosquito Spray 100ml",
         "image": "https://i.ibb.co/SsbHs1S/chiccobabyantimosquitospray.jpg",
@@ -4659,7 +4659,7 @@
     },
     {
         "_id": 258,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Dabur Odomos Naturals Cream 100gm",
         "image": "https://i.ibb.co/hRJ3n13/daburodomosnaturalscream.jpg",
@@ -4676,7 +4676,7 @@
     },
     {
         "_id": 259,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Dr Morepen Quit & Out Mosquito Repellent Cream - 50gm",
         "image": "https://i.ibb.co/TwHT6gw/drmorepenquit-outmosquitorepellent.jpg",
@@ -4692,7 +4692,7 @@
     },
     {
         "_id": 260,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Godrej Goodknight Fabric Roll - On - Citrus - 8ml",
         "image": "https://i.ibb.co/vsxKfF6/godrejgoodknightfabricrollon.jpg",
@@ -4709,7 +4709,7 @@
     },
     {
         "_id": 261,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Mamaearth After Bite Lavander And Witchhazel Anti Mosquito Roll-On Tube Of 40 Ml",
         "image": "https://i.ibb.co/njx3gR9/mamaearthafterbitelavander.jpg",
@@ -4726,7 +4726,7 @@
     },
     {
         "_id": 262,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Mamaearth Anti Mosquito Roll-On Bottle Of 8 Ml",
         "image": "https://i.ibb.co/Csdz4xQ/mamaearthantimosquitorollone.jpg",
@@ -4743,7 +4743,7 @@
     },
     {
         "_id": 263,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         " name": "B D Alcohol Swabs Box Of 100'S",
         "image": "https://i.ibb.co/r0L6yZj/BDalcoholswabsbox-of-100-s.jpg",
@@ -4760,7 +4760,7 @@
     },
     {
         "_id": 264,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "_name": "Cofsils Experdine Gargle 100Ml",
         "image": "https://i.ibb.co/xSgnWQc/cofsilsexperdinegargle100ml.jpg",
@@ -4777,7 +4777,7 @@
     },
     {
         "_id": 265,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Dettol Antiseptic Liquid Bottle Of 550Ml",
         "image": "https://i.ibb.co/GnjnsHX/dettolantisepticliquid550ml.jpg",
@@ -4792,7 +4792,7 @@
     },
     {
         "_id": 266,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Dettol Liquid Disinfectant Sanitizer Spray Bottle - Spring Blossom ",
         "image": "https://i.ibb.co/ChX5Zg5/dettoldisinfectantsanitizerbottle.jpg",
@@ -4809,7 +4809,7 @@
     },
     {
         "_id": 267,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Dettol Disinfection Kit (Clinical Strength Sanitizer, Disinfectant Wipes & Disinfection Spray",
         "image": "https://i.ibb.co/SNdQhvV/dettoldisinfectionkit.jpg",
@@ -4826,7 +4826,7 @@
     },
     {
         "_id": 268,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Dettol Liquid Disinfectant For Floor Cleaner, Surface Disinfection Personal Hygiene Lime Fresh 500Ml",
         "image": "https://i.ibb.co/nbdyH6j/dettolliquiddisinfectant.jpg",
@@ -4843,7 +4843,7 @@
     },
     {
         "_id": 269,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Lizol Citrus Disinfectant Floor Cleaner Liquid Bottle of 975Ml",
         "image": "https://i.ibb.co/T1GFt5F/lizolcitrusdisinfectantfloorcleanerliquid.jpg",
@@ -4860,7 +4860,7 @@
     },
     {
         "_id": 270,
-        "type_id": 2,
+        "type_id": 7,
         "products_id": 7,
         "name": "Lupisafe Disinfectant Spray - 170g",
         "image": "https://i.ibb.co/GxhTTPw/lupisafedisinfectantspray.jpg",
@@ -4877,7 +4877,7 @@
     },
     {
         "_id": 271,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Beardo Beard Shaping & Styling Tool Comb",
         "image": "https://i.ibb.co/jbhgKD1/beardobeardshaping-stylingcomb.jpg",
@@ -4894,7 +4894,7 @@
     },
     {
         "_id": 272,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Captain Zack Vet Care - Tazsoothe Itch Relief Biphasic Oil For Dogs, 50 Ml",
         "image": "https://i.ibb.co/Hz5VqpK/captainzackvetcareitchrelief.jpg",
@@ -4909,7 +4909,7 @@
     },
     {
         "_id": 273,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Ikonic Black Blaze",
         "image": "https://i.ibb.co/3RysvDg/ikonicblackblaze.jpg",
@@ -4926,7 +4926,7 @@
     },
     {
         "_id": 274,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Ikonic Professional Curl Me Up Hair Curler",
         "image": "https://i.ibb.co/jzF0WDK/ikonichaircurler.jpg",
@@ -4943,7 +4943,7 @@
     },
     {
         "_id": 275,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Set Wet Hair Gel For Men, Vertical Hold, Strong Hold, Tube, 100 Ml",
         "image": "https://i.ibb.co/GdcM19q/setwethairgelformen.jpg",
@@ -4960,7 +4960,7 @@
     },
     {
         "_id": 276,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Ustraa Beard Growth Supplement - 60 Ml",
         "image": "https://i.ibb.co/g49XJLG/ustraabeardgrowthsupplement.jpg",
@@ -4977,7 +4977,7 @@
     },
     {
         "_id": 277,
-        "type_id": 2,
+        "type_id": 8,
         "products_id":8,
         "name": "Vega Insta Wave Foldable Hair Dryer (Vhdh-22) White",
         "image": "https://i.ibb.co/yhhmzZ0/vegainstawavefoldablehairdryer.jpg",
@@ -4992,7 +4992,7 @@
     },
     {
         "_id": 278,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Vega Men T1 Beard Trimmer For Men (Vhth-18)",
         "image": "https://i.ibb.co/Q9rwWyQ/vegament1beardtrimmer.jpg",
@@ -5009,7 +5009,7 @@
     },
     {
         "_id": 279,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Vega T-Style Beard Trimmer (Black)",
         "image": "https://i.ibb.co/wWjBLVy/vegatstylebeardtrimer.jpg",
@@ -5024,7 +5024,7 @@
     },
     {
         "_id": 280,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Ezee Bio-Degradable Garbage Bags (30 X 37 Inches) Packet Of 10 Extra Large",
         "image": "https://i.ibb.co/j32fQNB/ezeebiodegradablegarbagebags.jpg",
@@ -5041,7 +5041,7 @@
     },
     {
         "_id": 281,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "I Pill Tab",
         "image": "https://i.ibb.co/VLtHHWx/ipilltablet.jpg",
@@ -5058,7 +5058,7 @@
     },
     {
         "_id": 282,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Keepsafe Intimate Wash For Women Bottle Of 100 Ml",
         "image": "https://i.ibb.co/xhFhnQ7/keepsafeintimatewashforwomen.jpg",
@@ -5075,7 +5075,7 @@
     },
     {
         "_id": 283,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Keya Seth Medicure, Ankush V Ointment Disinfection & Moisturizer For Intimate Area - 50ml",
         "image": "https://i.ibb.co/5ML7wkM/keyasethmedicureankushvointment.jpg",
@@ -5090,7 +5090,7 @@
     },
     {
         "_id": 284,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Liveasy Wellness Joint Support - Maintains Joints Mobility - Bone & Joint Health - Bottle Of 60",
         "image": "https://i.ibb.co/vZcJWjk/liveasywellnessjointsupport.jpg",
@@ -5107,7 +5107,7 @@
     },
     {
         "_id": 285,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Mamaxpert Intimate Wash - 100 Ml",
         "image": "https://i.ibb.co/7zWGMbz/mamaxpertstretchmarkcream.jpg",
@@ -5124,7 +5124,7 @@
     },
     {
         "_id": 286,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Sanfe Sensual Intimate Massage Gel - 50 Ml",
         "image": "https://i.ibb.co/DM1xjFW/sanfenaturalintimatewash.jpg",
@@ -5141,7 +5141,7 @@
     },
     {
         "_id": 287,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Sirona Adult Diaper Disposal Bag For Discreet, Tamper Proof Disposal Of Diapers - Pack Of 30",
         "image": "https://i.ibb.co/DChyzQ3/sironaadultdiaperdisposalbag.jpg",
@@ -5158,7 +5158,7 @@
     },
     {
         "_id": 288,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "V Health Intimate Wash - 100 Ml",
         "image": "https://i.ibb.co/ZhrbzJF/vhealthintimatewash.jpg",
@@ -5173,7 +5173,7 @@
     },
     {
         "_id": 289,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Carbamide Forte Vitamin E 600mg For Face,Hair,100% Natural Vitamin E-60 Capsules",
         "image": "https://i.ibb.co/YpcBBff/carbamidefortevitamine.jpg",
@@ -5190,7 +5190,7 @@
     },
     {
         "_id": 290,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Ferradol Food Supplement - 450g",
         "image": "https://i.ibb.co/TL19HVV/ferradolfoodsupplement.jpg",
@@ -5207,7 +5207,7 @@
     },
     {
         "_id": 291,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Healthvit Calvitan-Kid Kids Calcium With Vitamin D For Strong Bone Health | Immunity | Healthy Growth 60 Tablets",
         "image": "https://i.ibb.co/g3fSJBn/healthvitcalvitankid.jpg",
@@ -5224,7 +5224,7 @@
     },
     {
         "_id": 292,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Healthvit Vitamin B1 Thia-Min 100mg Multivitamin Tablets Bottle Of 60",
         "image": "https://i.ibb.co/tLj1xyk/healthvitvitaminb1.jpg",
@@ -5241,7 +5241,7 @@
     },
     {
         "_id": 293,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Liveasy Wellness Calcium, Magnesium, Vitamin D3 & Zinc - Bones & Dental Health - Bottle 60 Tabs",
         "image": "https://i.ibb.co/d4Jm3RX/liveasycalciummagnesiumzinc.jpg",
@@ -5258,7 +5258,7 @@
     },
     {
         "_id": 294,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Liveasy Ortho Care Lumbar Sacro Support Belt - Medium",
         "image": "https://i.ibb.co/6ZWG2qG/liveasyorthocarelumbarsacrosupport.jpg",
@@ -5275,7 +5275,7 @@
     },
     {
         "_id": 295,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Manforce Wild Chocolate Box Of 10 Condoms",
         "image": "https://i.ibb.co/fCHLyYV/manforcewildchocolateboxof10condoms.jpg",
@@ -5292,7 +5292,7 @@
     },
     {
         "_id": 296,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Osteocare Suspension-Calcium, Magnesium, Zinc & Vitamin D3 Suspension",
         "image": "https://i.ibb.co/GMKwn3w/osteocaresuspensioncalciummagnesium.jpg",
@@ -5308,7 +5308,7 @@
     },
     {
         "_id": 297,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Patanjali Nutrela Daily Active 22.5g-Multivitamins For Heart,Eye,Bone & Brain Health-1 Bottle-30cap",
         "image": "https://i.ibb.co/Kh1hw6j/patanjalinutreladailyactive.jpg",
@@ -5325,7 +5325,7 @@
     },
     {
         "_id": 298,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Dabur Amla Hair Oil Bottle Of 275 Ml",
         "image": "https://i.ibb.co/GCFkynn/daburamlahairoil.jpg",
@@ -5342,7 +5342,7 @@
     },
     {
         "_id": 299,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Emami 7 Oils In One Hair Oil Bottle Of 200 Ml",
         "image": "https://i.ibb.co/2sMTZYf/emamihairoil.jpg",
@@ -5359,7 +5359,7 @@
     },
     {
         "_id": 300,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Himalaya Anti Dandruff Shampoo - 400ml",
         "image": "https://i.ibb.co/qs9bc4L/himalayaantidandruff.jpg",
@@ -5375,7 +5375,7 @@
     },
     {
         "_id": 301,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Himalaya Anti Hair Fall Hair Oil - 200ml",
         "image": "https://i.ibb.co/74rc0dm/himalayaantihairfallhairoil.jpg",
@@ -5392,7 +5392,7 @@
     },
     {
         "_id": 302,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Indulekha Bringha Hair Oil Bottle Of 100 Ml",
         "image": "https://i.ibb.co/1v4D75y/indulekhabringhahairoilbottle.jpg",
@@ -5409,7 +5409,7 @@
     },
     {
         "_id": 303,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Navratna Ayurvedic Cool Hair Oil Bottle Of 200 Ml",
         "image": "https://i.ibb.co/Nn0bVw8/navratnaayurvediccoolhairoil.jpg",
@@ -5426,7 +5426,7 @@
     },
     {
         "_id": 304,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Parachute 100 % Pure Coconut Oil, 1 L (Pet Jar)",
         "image": "https://i.ibb.co/Xjj2vrZ/parachutecoconutoil1litre.jpg",
@@ -5441,7 +5441,7 @@
     },
     {
         "_id": 305,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Sesa Oil 100ml",
         "image": "https://i.ibb.co/vXDSQmk/sesahairoil.jpg",
@@ -5456,7 +5456,7 @@
     },
     {
         "_id": 306,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Tresemme Keratin Smooth Shampoo - 185 Ml",
         "image": "https://i.ibb.co/v4YGLgF/tresemmekeratinsmoothshampooo.jpg",
@@ -5472,7 +5472,7 @@
     },
     {
         "_id": 307,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Anchor All Round Protection Toothpaste 150gm X 3",
         "image": "https://i.ibb.co/7pWS8q3/anchortoothpaste.jpg",
@@ -5487,7 +5487,7 @@
     },
     {
         "_id": 308,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Colgate Strong Teeth Dental Cream Tooth Paste 44 Gm",
         "image": "https://i.ibb.co/0hZdZvp/colgatestrondteethtoothpaste.jpg",
@@ -5504,7 +5504,7 @@
     },
     {
         "_id": 309,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Colgate Zigzag Antibacterial Toothbrush - Medium (Pack Of 3)",
         "image": "https://i.ibb.co/r40fvGm/colgatezigzagtoothbrush.jpg",
@@ -5521,7 +5521,7 @@
     },
     {
         "_id": 310,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Dabur Red Paste 200gm",
         "image": "https://i.ibb.co/f1FjBXW/daburredpaste.jpg",
@@ -5535,7 +5535,7 @@
     },
     {
         "_id": 311,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Listerine Coolmint Mouthwash Bottle Of 250 Ml",
         "image": "https://i.ibb.co/XpgnmFh/listerinemouthwashcoolmint.jpg",
@@ -5552,7 +5552,7 @@
     },
     {
         "_id": 312,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Sensodent K Paste 100gm",
         "image": "https://i.ibb.co/4fnkhQd/sensodentkfgel.jpg",
@@ -5569,7 +5569,7 @@
     },
     {
         "_id": 313,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Sensodyne Sensitive Repair & Protect Toothpaste Tube Of 70 G",
         "image": "https://i.ibb.co/0sYcQ4t/sensodynesensitiverepairtoothpaste.jpg",
@@ -5586,7 +5586,7 @@
     },
     {
         "_id": 314,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Sensodyne Sensitivity & Gum Toothbrush With Soft Bristles (Buy 2, Get 1 Free)",
         "image": "https://i.ibb.co/yhRCGCY/sensodynetoothbrush.jpg",
@@ -5600,7 +5600,7 @@
     },
     {
         "_id": 315,
-        "type_id": 2,
+        "type_id": 8,
         "products_id": 8,
         "name": "Sensoform Paste 100gm",
         "image": "https://i.ibb.co/1mWmkhR/sensoformpaste100gm.jpg",

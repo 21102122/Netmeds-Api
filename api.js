@@ -106,7 +106,7 @@ app.get('/details/:id',(req,res) => {
 app.get('/menu/:id',(req,res) => {
     let typeId  = Number(req.params.id)
     console.log(">>>>typeId",typeId)
-    db.collection('desc').find({products_id:typeId}).toArray((err,result) =>{
+    db.collection('desc').find({care_id:typeId}).toArray((err,result) =>{
         if(err) throw err;
         res.send(result)
     })

@@ -58,7 +58,7 @@ app.get('/filter/:sortId', (req,res) => {
     let hprice = Number(req.query.hprice);
     let query = {}
     if (req.query.sort){
-        sort:{cost:req.query.sort}
+        sort = {cost:req.query.sort}
     }
     else if(req.query.skip && req.query.skip){
         skip = Number(req.query.skip);

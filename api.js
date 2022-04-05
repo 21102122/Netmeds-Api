@@ -71,8 +71,8 @@ app.get('/filter/:sortId', (req,res) => {
             $and:[{price:{$gt:lprice,$lt:hprice}}]
         }
     }
-    else if(productId){
-        query = {"product.products_id":categoryId,"sortType.sort_id":sortId}
+    else if(categoryId){
+        query = {"category.category_id":categoryId,"sortType.sort_id":sortId}
     }
     else if(lprice&hprice){
         query = {$and:[{price:{$gt:lprice,$lt:hprice}}],"sortType.sort_id":sortId}

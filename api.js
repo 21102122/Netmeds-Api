@@ -77,7 +77,7 @@ app.get('/filter/:sortId', (req,res) => {
     else if(lprice&hprice){
         query = {$and:[{price:{$gt:lprice,$lt:hprice}}],"sortType.sort_id":sortId}
     }
-    db.collection('products').find(query).sort(sort).skip(skip).limit(limit).toArray((err,result) =>{
+    db.collection('category').find(query).sort(sort).skip(skip).limit(limit).toArray((err,result) =>{
         if(err) throw err;
         res.send(result)
     })

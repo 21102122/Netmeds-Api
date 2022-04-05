@@ -68,14 +68,14 @@ app.get('/filter/:sortId', (req,res) => {
         query = {
             "category.category_id":categoryId,
             "sortType.sort_id":sortId,
-            $and:[{price:{$gt:lprice,$lt:hprice}}]
+            $and:[{discount_price:{$gt:lprice,$lt:hprice}}]
         }
     }
     else if(categoryId){
         query = {"category.category_id":categoryId,"sortType.sort_id":sortId}
     }
     else if(lprice&hprice){
-        query = {$and:[{price:{$gt:lprice,$lt:hprice}}],"sortType.sort_id":sortId}
+        query = {$and:[{discount_price:{$gt:lprice,$lt:hprice}}],"sortType.sort_id":sortId}
     }
     db.collection('category').find(query).sort(sort).skip(skip).limit(limit).toArray((err,result) =>{
         if(err) throw err;

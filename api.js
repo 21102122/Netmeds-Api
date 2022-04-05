@@ -60,11 +60,11 @@ app.get('/filter/:sortId', (req,res) => {
     if (req.query.sort){
         sort = {cost:req.query.sort}
     }
-    else if(req.query.skip && req.query.skip){
+    if(req.query.skip && req.query.skip){
         skip = Number(req.query.skip);
         limit = Number(req.query.limit)
     }
-    else if(categoryId&lprice&hprice){
+    if(categoryId&lprice&hprice){
         query = {
             "category.category_id":categoryId,
             "sortType.sort_id":sortId,

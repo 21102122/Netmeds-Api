@@ -60,7 +60,7 @@ app.get('/filter/:sortId', (req,res) => {
     if (req.query.sort){
         sort:{cost:req.query.sort}
     }
-    if(req.query.skip && req.query.skip){
+    else if(req.query.skip && req.query.skip){
         skip = Number(req.query.skip);
         limit = Number(req.query.limit)
     }

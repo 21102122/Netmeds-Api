@@ -53,7 +53,7 @@ app.get('/filter/:sortId', (req,res) => {
     let sortId = Number(req.params.sortId)
     let skip = 0;
     let limit = 10000000000;
-    let productsId = Number(req.query.category)
+    let categoryId = Number(req.query.category)
     let lprice = Number(req.query.lprice);
     let hprice = Number(req.query.hprice);
     let query = {}
@@ -64,15 +64,15 @@ app.get('/filter/:sortId', (req,res) => {
         skip = Number(req.query.skip);
         limit = Number(req.query.limit)
     }
-    else if(productsId&lprice&hprice){
+    else if(categoryId&lprice&hprice){
         query = {
-            "products.products_id":productsId,
+            "category.category_id":categoryId,
             "sortType.sort_id":sortId,
             $and:[{price:{$gt:lprice,$lt:hprice}}]
         }
     }
-    else if(productsId){
-        query = {"products.products_id":productsId,"sortType.sort_id":sortId}
+    else if(productId){
+        query = {"product.products_id":categoryId,"sortType.sort_id":sortId}
     }
     else if(lprice&hprice){
         query = {$and:[{price:{$gt:lprice,$lt:hprice}}],"sortType.sort_id":sortId}

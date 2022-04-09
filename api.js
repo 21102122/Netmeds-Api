@@ -56,7 +56,7 @@ app.get('/filter/:sortId', (req,res) => {
         query = {"category.category_id":categoryId,"sortType.sort_id":sortId}
     }
     
-    db.collection('category').find(query).sort(sort).skip(skip).limit(limit).toArray((err,result) =>{
+    db.collection('category').find(query).toArray((err,result) =>{
         if(err) throw err;
         res.send(result)
     })

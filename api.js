@@ -49,34 +49,13 @@ app.get('/category',(req,res) => {
 
 //filter
 app.get('/filter/:sortId', (req,res) => {
-    let sort = {cost:1}
-    let sortId = Number(req.params.sortId)
-    let skip = 0;
-    let limit = 10000000000;
-    let categoryId = Number(req.query.category)
-    let lprice = Number(req.query.lprice);
-    let hprice = Number(req.query.hprice);
+    let sortId = Number(req.params.sortId);
+    let categoryId = Number(req.params.categoryId)
     let query = {}
-    if (req.query.sort){
-        sort = {cost:req.query.sort}
+    if (categoryId){
+        query = {"category.category_id":categoryId,"sort.sort_id":sortId}
     }
-    if(req.query.skip && req.query.skip){
-        skip = Number(req.query.skip);
-        limit = Number(req.query.limit)
-    }
-    if(categoryId&lprice&hprice){
-        query = {
-            "category.category_id":categoryId,
-            "sortType.sort_id":sortId,
-            $and:[{discount_price:{$gt:lprice,$lt:hprice}}]
-        }
-    }
-    else if(categoryId){
-        query = {"category.category_id":categoryId,"sortType.sort_id":sortId}
-    }
-    else if(lprice&hprice){
-        query = {$and:[{discount_price:{$gt:lprice,$lt:hprice}}],"sortType.sort_id":sortId}
-    }
+    
     db.collection('category').find(query).sort(sort).skip(skip).limit(limit).toArray((err,result) =>{
         if(err) throw err;
         res.send(result)

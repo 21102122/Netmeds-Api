@@ -53,7 +53,7 @@ app.get('/filter/:sortId', (req,res) => {
     let categoryId = Number(req.params.categoryId)
     let query = {}
     if (categoryId){
-        query = {"category.category_id":categoryId,"sort.sort_id":sortId}
+        query = {"category.category_id":categoryId,"sortType.sort_id":sortId}
     }
     
     db.collection('category').find(query).sort(sort).skip(skip).limit(limit).toArray((err,result) =>{

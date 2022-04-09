@@ -49,11 +49,11 @@ app.get('/category',(req,res) => {
 
 //filter
 app.get('/filter/:sortId', (req,res) => {
-    let sortId = Number(req.params.sortId);
+    let typeId = Number(req.params.typeId);
     let productId = Number(req.params.productId)
     let query = {}
     if (categoryId){
-        query = {"products_id":productId,"sortType.sort_id":sortId}
+        query = {"products_id":productId,"type_id":typeId}
     }
     
     db.collection('category').find(query).toArray((err,result) =>{

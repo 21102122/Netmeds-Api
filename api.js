@@ -48,12 +48,12 @@ app.get('/category',(req,res) => {
 })
 
 //filter
-app.get('/filter/:sortId', (req,res) => {
-    let sortId = Number(req.params.sortId);
+app.get('/filter/:typeId', (req,res) => {
+    let typeId  = Number(req.query.type_id)
     let categoryId = Number(req.params.categoryId)
     let query = {}
     if (categoryId){
-        query = {"category.category_id":categoryId,"sortType.sort_id":sortId}
+        query = {"category.category_id":categoryId,"type_id":typeId}
     }
     
     db.collection('category').find(query).toArray((err,result) =>{
